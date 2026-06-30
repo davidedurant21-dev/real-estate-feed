@@ -14,14 +14,14 @@
     <Tipologia>Appartamento</Tipologia>
     <Titolo>TEST CHATGPT</Titolo>
     <Descrizione>Proponiamo appartamento a Bologna, in zona verde, con ambienti luminosi, ottima distribuzione interna e finiture curate. Soluzione ideale per famiglie, professionisti o investimento.</Descrizione>
-    <Prezzo>969</Prezzo>
+    <Prezzo>999999</Prezzo>
     <Valuta>EUR</Valuta>
     <Comune>Bologna</Comune>
     <Provincia>BO</Provincia>
     <Indirizzo>Via Demo 1</Indirizzo>
     <Zona>Zona servita</Zona>
-    <Mq>170</Mq>
-    <Camere>2</Camere>
+    <Mq>250</Mq>
+    <Camere>5</Camere>
     <Bagni>2</Bagni>
     <Piano>Terra</Piano>
     <ClasseEnergetica>E</ClasseEnergetica>
