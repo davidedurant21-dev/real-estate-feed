@@ -1,0 +1,3155 @@
+<?xml version="1.0" ?>
+<Getrix>
+  <Agenzia>
+    <Nome>Demo Immobiliare</Nome>
+    <SitoWeb>https://www.demoimmobiliare.it</SitoWeb>
+    <Email>info@demoimmobiliare.it</Email>
+    <Telefono>+39 051 0000000</Telefono>
+  </Agenzia>
+  <Immobile>
+    <CodiceNazione>IT</CodiceNazione>
+    <CodiceComune>037006</CodiceComune>
+    <Riferimento>BO-1001</Riferimento>
+    <Contratto>Affitto</Contratto>
+    <Tipologia>Appartamento</Tipologia>
+    <Titolo>Appartamento in zona verde a Bologna</Titolo>
+    <Descrizione>Proponiamo appartamento a Bologna, in zona verde, con ambienti luminosi, ottima distribuzione interna e finiture curate. Soluzione ideale per famiglie, professionisti o investimento.</Descrizione>
+    <Prezzo>969</Prezzo>
+    <Valuta>EUR</Valuta>
+    <Comune>Bologna</Comune>
+    <Provincia>BO</Provincia>
+    <Indirizzo>Via Demo 1</Indirizzo>
+    <Zona>Zona servita</Zona>
+    <Mq>170</Mq>
+    <Camere>2</Camere>
+    <Bagni>2</Bagni>
+    <Piano>Terra</Piano>
+    <ClasseEnergetica>E</ClasseEnergetica>
+    <Stato>Disponibile</Stato>
+    <Giardino>true</Giardino>
+    <Garage>true</Garage>
+    <Ascensore>true</Ascensore>
+    <Latitudine>44.478018</Latitudine>
+    <Longitudine>11.342921</Longitudine>
+    <Immagini>
+      <Immagine ordine="1">https://picsum.photos/seed/property-1-1/1200/800</Immagine>
+      <Immagine ordine="2">https://picsum.photos/seed/property-1-2/1200/800</Immagine>
+    </Immagini>
+  </Immobile>
+  <Immobile>
+    <CodiceNazione>IT</CodiceNazione>
+    <CodiceComune>034027</CodiceComune>
+    <Riferimento>PR-1002</Riferimento>
+    <Contratto>Affitto</Contratto>
+    <Tipologia>Villetta</Tipologia>
+    <Titolo>Villetta in zona residenziale a Parma</Titolo>
+    <Descrizione>Proponiamo villetta a Parma, in zona verde, con ambienti luminosi, ottima distribuzione interna e finiture curate. Soluzione ideale per famiglie, professionisti o investimento.</Descrizione>
+    <Prezzo>576</Prezzo>
+    <Valuta>EUR</Valuta>
+    <Comune>Parma</Comune>
+    <Provincia>PR</Provincia>
+    <Indirizzo>Via Demo 2</Indirizzo>
+    <Zona>Quartiere storico</Zona>
+    <Mq>157</Mq>
+    <Camere>4</Camere>
+    <Bagni>3</Bagni>
+    <Piano>2</Piano>
+    <ClasseEnergetica>C</ClasseEnergetica>
+    <Stato>Disponibile</Stato>
+    <Giardino>true</Giardino>
+    <Garage>true</Garage>
+    <Ascensore>false</Ascensore>
+    <Latitudine>44.777633</Latitudine>
+    <Longitudine>10.320696</Longitudine>
+    <Immagini>
+      <Immagine ordine="1">https://picsum.photos/seed/property-2-1/1200/800</Immagine>
+      <Immagine ordine="2">https://picsum.photos/seed/property-2-2/1200/800</Immagine>
+      <Immagine ordine="3">https://picsum.photos/seed/property-2-3/1200/800</Immagine>
+      <Immagine ordine="4">https://picsum.photos/seed/property-2-4/1200/800</Immagine>
+    </Immagini>
+  </Immobile>
+  <Immobile>
+    <CodiceNazione>IT</CodiceNazione>
+    <CodiceComune>028060</CodiceComune>
+    <Riferimento>PD-1003</Riferimento>
+    <Contratto>Vendita</Contratto>
+    <Tipologia>Rustico</Tipologia>
+    <Titolo>Rustico in centro a Padova</Titolo>
+    <Descrizione>Proponiamo rustico a Padova, in zona servita, con ambienti luminosi, ottima distribuzione interna e finiture curate. Soluzione ideale per famiglie, professionisti o investimento.</Descrizione>
+    <Prezzo>486922</Prezzo>
+    <Valuta>EUR</Valuta>
+    <Comune>Padova</Comune>
+    <Provincia>PD</Provincia>
+    <Indirizzo>Via Demo 3</Indirizzo>
+    <Zona>Prima periferia</Zona>
+    <Mq>280</Mq>
+    <Camere>5</Camere>
+    <Bagni>1</Bagni>
+    <Piano>Ultimo</Piano>
+    <ClasseEnergetica>D</ClasseEnergetica>
+    <Stato>Disponibile</Stato>
+    <Giardino>true</Giardino>
+    <Garage>true</Garage>
+    <Ascensore>true</Ascensore>
+    <Latitudine>45.416076</Latitudine>
+    <Longitudine>11.893184</Longitudine>
+    <Immagini>
+      <Immagine ordine="1">https://picsum.photos/seed/property-3-1/1200/800</Immagine>
+      <Immagine ordine="2">https://picsum.photos/seed/property-3-2/1200/800</Immagine>
+    </Immagini>
+  </Immobile>
+  <Immobile>
+    <CodiceNazione>IT</CodiceNazione>
+    <CodiceComune>001272</CodiceComune>
+    <Riferimento>TO-1004</Riferimento>
+    <Contratto>Affitto</Contratto>
+    <Tipologia>Villa</Tipologia>
+    <Titolo>Villa in prima periferia a Torino</Titolo>
+    <Descrizione>Proponiamo villa a Torino, in prima periferia, con ambienti luminosi, ottima distribuzione interna e finiture curate. Soluzione ideale per famiglie, professionisti o investimento.</Descrizione>
+    <Prezzo>1216</Prezzo>
+    <Valuta>EUR</Valuta>
+    <Comune>Torino</Comune>
+    <Provincia>TO</Provincia>
+    <Indirizzo>Via Demo 4</Indirizzo>
+    <Zona>Zona residenziale</Zona>
+    <Mq>187</Mq>
+    <Camere>4</Camere>
+    <Bagni>3</Bagni>
+    <Piano>Ultimo</Piano>
+    <ClasseEnergetica>C</ClasseEnergetica>
+    <Stato>Disponibile</Stato>
+    <Giardino>true</Giardino>
+    <Garage>true</Garage>
+    <Ascensore>true</Ascensore>
+    <Latitudine>45.050104</Latitudine>
+    <Longitudine>7.679667</Longitudine>
+    <Immagini>
+      <Immagine ordine="1">https://picsum.photos/seed/property-4-1/1200/800</Immagine>
+      <Immagine ordine="2">https://picsum.photos/seed/property-4-2/1200/800</Immagine>
+      <Immagine ordine="3">https://picsum.photos/seed/property-4-3/1200/800</Immagine>
+    </Immagini>
+  </Immobile>
+  <Immobile>
+    <CodiceNazione>IT</CodiceNazione>
+    <CodiceComune>028060</CodiceComune>
+    <Riferimento>PD-1005</Riferimento>
+    <Contratto>Vendita</Contratto>
+    <Tipologia>Appartamento</Tipologia>
+    <Titolo>Appartamento in centro a Padova</Titolo>
+    <Descrizione>Proponiamo appartamento a Padova, in zona residenziale, con ambienti luminosi, ottima distribuzione interna e finiture curate. Soluzione ideale per famiglie, professionisti o investimento.</Descrizione>
+    <Prezzo>370746</Prezzo>
+    <Valuta>EUR</Valuta>
+    <Comune>Padova</Comune>
+    <Provincia>PD</Provincia>
+    <Indirizzo>Via Demo 5</Indirizzo>
+    <Zona>Zona servita</Zona>
+    <Mq>61</Mq>
+    <Camere>3</Camere>
+    <Bagni>4</Bagni>
+    <Piano>Ultimo</Piano>
+    <ClasseEnergetica>D</ClasseEnergetica>
+    <Stato>Disponibile</Stato>
+    <Giardino>true</Giardino>
+    <Garage>false</Garage>
+    <Ascensore>false</Ascensore>
+    <Latitudine>45.429481</Latitudine>
+    <Longitudine>11.885371</Longitudine>
+    <Immagini>
+      <Immagine ordine="1">https://picsum.photos/seed/property-5-1/1200/800</Immagine>
+      <Immagine ordine="2">https://picsum.photos/seed/property-5-2/1200/800</Immagine>
+      <Immagine ordine="3">https://picsum.photos/seed/property-5-3/1200/800</Immagine>
+    </Immagini>
+  </Immobile>
+  <Immobile>
+    <CodiceNazione>IT</CodiceNazione>
+    <CodiceComune>048017</CodiceComune>
+    <Riferimento>FI-1006</Riferimento>
+    <Contratto>Vendita</Contratto>
+    <Tipologia>Attico</Tipologia>
+    <Titolo>Attico in quartiere storico a Firenze</Titolo>
+    <Descrizione>Proponiamo attico a Firenze, in prima periferia, con ambienti luminosi, ottima distribuzione interna e finiture curate. Soluzione ideale per famiglie, professionisti o investimento.</Descrizione>
+    <Prezzo>701878</Prezzo>
+    <Valuta>EUR</Valuta>
+    <Comune>Firenze</Comune>
+    <Provincia>FI</Provincia>
+    <Indirizzo>Via Demo 6</Indirizzo>
+    <Zona>Zona residenziale</Zona>
+    <Mq>320</Mq>
+    <Camere>3</Camere>
+    <Bagni>4</Bagni>
+    <Piano>1</Piano>
+    <ClasseEnergetica>G</ClasseEnergetica>
+    <Stato>Disponibile</Stato>
+    <Giardino>false</Giardino>
+    <Garage>true</Garage>
+    <Ascensore>true</Ascensore>
+    <Latitudine>43.791266</Latitudine>
+    <Longitudine>11.234970</Longitudine>
+    <Immagini>
+      <Immagine ordine="1">https://picsum.photos/seed/property-6-1/1200/800</Immagine>
+      <Immagine ordine="2">https://picsum.photos/seed/property-6-2/1200/800</Immagine>
+      <Immagine ordine="3">https://picsum.photos/seed/property-6-3/1200/800</Immagine>
+    </Immagini>
+  </Immobile>
+  <Immobile>
+    <CodiceNazione>IT</CodiceNazione>
+    <CodiceComune>023091</CodiceComune>
+    <Riferimento>VR-1007</Riferimento>
+    <Contratto>Affitto</Contratto>
+    <Tipologia>Villa</Tipologia>
+    <Titolo>Villa in prima periferia a Verona</Titolo>
+    <Descrizione>Proponiamo villa a Verona, in zona servita, con ambienti luminosi, ottima distribuzione interna e finiture curate. Soluzione ideale per famiglie, professionisti o investimento.</Descrizione>
+    <Prezzo>2717</Prezzo>
+    <Valuta>EUR</Valuta>
+    <Comune>Verona</Comune>
+    <Provincia>VR</Provincia>
+    <Indirizzo>Via Demo 7</Indirizzo>
+    <Zona>Centro</Zona>
+    <Mq>240</Mq>
+    <Camere>5</Camere>
+    <Bagni>4</Bagni>
+    <Piano>Ultimo</Piano>
+    <ClasseEnergetica>A3</ClasseEnergetica>
+    <Stato>Disponibile</Stato>
+    <Giardino>false</Giardino>
+    <Garage>false</Garage>
+    <Ascensore>true</Ascensore>
+    <Latitudine>45.426010</Latitudine>
+    <Longitudine>10.971089</Longitudine>
+    <Immagini>
+      <Immagine ordine="1">https://picsum.photos/seed/property-7-1/1200/800</Immagine>
+      <Immagine ordine="2">https://picsum.photos/seed/property-7-2/1200/800</Immagine>
+    </Immagini>
+  </Immobile>
+  <Immobile>
+    <CodiceNazione>IT</CodiceNazione>
+    <CodiceComune>048017</CodiceComune>
+    <Riferimento>FI-1008</Riferimento>
+    <Contratto>Vendita</Contratto>
+    <Tipologia>Attico</Tipologia>
+    <Titolo>Attico in prima periferia a Firenze</Titolo>
+    <Descrizione>Proponiamo attico a Firenze, in zona residenziale, con ambienti luminosi, ottima distribuzione interna e finiture curate. Soluzione ideale per famiglie, professionisti o investimento.</Descrizione>
+    <Prezzo>250263</Prezzo>
+    <Valuta>EUR</Valuta>
+    <Comune>Firenze</Comune>
+    <Provincia>FI</Provincia>
+    <Indirizzo>Via Demo 8</Indirizzo>
+    <Zona>Zona servita</Zona>
+    <Mq>197</Mq>
+    <Camere>5</Camere>
+    <Bagni>2</Bagni>
+    <Piano>4</Piano>
+    <ClasseEnergetica>A4</ClasseEnergetica>
+    <Stato>Disponibile</Stato>
+    <Giardino>false</Giardino>
+    <Garage>false</Garage>
+    <Ascensore>true</Ascensore>
+    <Latitudine>43.746312</Latitudine>
+    <Longitudine>11.247579</Longitudine>
+    <Immagini>
+      <Immagine ordine="1">https://picsum.photos/seed/property-8-1/1200/800</Immagine>
+      <Immagine ordine="2">https://picsum.photos/seed/property-8-2/1200/800</Immagine>
+      <Immagine ordine="3">https://picsum.photos/seed/property-8-3/1200/800</Immagine>
+      <Immagine ordine="4">https://picsum.photos/seed/property-8-4/1200/800</Immagine>
+    </Immagini>
+  </Immobile>
+  <Immobile>
+    <CodiceNazione>IT</CodiceNazione>
+    <CodiceComune>001272</CodiceComune>
+    <Riferimento>TO-1009</Riferimento>
+    <Contratto>Vendita</Contratto>
+    <Tipologia>Appartamento</Tipologia>
+    <Titolo>Appartamento in centro a Torino</Titolo>
+    <Descrizione>Proponiamo appartamento a Torino, in zona servita, con ambienti luminosi, ottima distribuzione interna e finiture curate. Soluzione ideale per famiglie, professionisti o investimento.</Descrizione>
+    <Prezzo>945662</Prezzo>
+    <Valuta>EUR</Valuta>
+    <Comune>Torino</Comune>
+    <Provincia>TO</Provincia>
+    <Indirizzo>Via Demo 9</Indirizzo>
+    <Zona>Zona residenziale</Zona>
+    <Mq>85</Mq>
+    <Camere>1</Camere>
+    <Bagni>4</Bagni>
+    <Piano>1</Piano>
+    <ClasseEnergetica>F</ClasseEnergetica>
+    <Stato>Disponibile</Stato>
+    <Giardino>true</Giardino>
+    <Garage>false</Garage>
+    <Ascensore>false</Ascensore>
+    <Latitudine>45.098162</Latitudine>
+    <Longitudine>7.712635</Longitudine>
+    <Immagini>
+      <Immagine ordine="1">https://picsum.photos/seed/property-9-1/1200/800</Immagine>
+      <Immagine ordine="2">https://picsum.photos/seed/property-9-2/1200/800</Immagine>
+      <Immagine ordine="3">https://picsum.photos/seed/property-9-3/1200/800</Immagine>
+    </Immagini>
+  </Immobile>
+  <Immobile>
+    <CodiceNazione>IT</CodiceNazione>
+    <CodiceComune>048017</CodiceComune>
+    <Riferimento>FI-1010</Riferimento>
+    <Contratto>Affitto</Contratto>
+    <Tipologia>Bilocale</Tipologia>
+    <Titolo>Bilocale in zona residenziale a Firenze</Titolo>
+    <Descrizione>Proponiamo bilocale a Firenze, in zona residenziale, con ambienti luminosi, ottima distribuzione interna e finiture curate. Soluzione ideale per famiglie, professionisti o investimento.</Descrizione>
+    <Prezzo>1045</Prezzo>
+    <Valuta>EUR</Valuta>
+    <Comune>Firenze</Comune>
+    <Provincia>FI</Provincia>
+    <Indirizzo>Via Demo 10</Indirizzo>
+    <Zona>Centro</Zona>
+    <Mq>269</Mq>
+    <Camere>5</Camere>
+    <Bagni>4</Bagni>
+    <Piano>2</Piano>
+    <ClasseEnergetica>A4</ClasseEnergetica>
+    <Stato>Disponibile</Stato>
+    <Giardino>true</Giardino>
+    <Garage>true</Garage>
+    <Ascensore>true</Ascensore>
+    <Latitudine>43.743860</Latitudine>
+    <Longitudine>11.263666</Longitudine>
+    <Immagini>
+      <Immagine ordine="1">https://picsum.photos/seed/property-10-1/1200/800</Immagine>
+      <Immagine ordine="2">https://picsum.photos/seed/property-10-2/1200/800</Immagine>
+      <Immagine ordine="3">https://picsum.photos/seed/property-10-3/1200/800</Immagine>
+    </Immagini>
+  </Immobile>
+  <Immobile>
+    <CodiceNazione>IT</CodiceNazione>
+    <CodiceComune>037006</CodiceComune>
+    <Riferimento>BO-1011</Riferimento>
+    <Contratto>Affitto</Contratto>
+    <Tipologia>Appartamento</Tipologia>
+    <Titolo>Appartamento in zona verde a Bologna</Titolo>
+    <Descrizione>Proponiamo appartamento a Bologna, in quartiere storico, con ambienti luminosi, ottima distribuzione interna e finiture curate. Soluzione ideale per famiglie, professionisti o investimento.</Descrizione>
+    <Prezzo>1690</Prezzo>
+    <Valuta>EUR</Valuta>
+    <Comune>Bologna</Comune>
+    <Provincia>BO</Provincia>
+    <Indirizzo>Via Demo 11</Indirizzo>
+    <Zona>Zona residenziale</Zona>
+    <Mq>81</Mq>
+    <Camere>5</Camere>
+    <Bagni>2</Bagni>
+    <Piano>4</Piano>
+    <ClasseEnergetica>A2</ClasseEnergetica>
+    <Stato>Disponibile</Stato>
+    <Giardino>false</Giardino>
+    <Garage>true</Garage>
+    <Ascensore>false</Ascensore>
+    <Latitudine>44.513350</Latitudine>
+    <Longitudine>11.324025</Longitudine>
+    <Immagini>
+      <Immagine ordine="1">https://picsum.photos/seed/property-11-1/1200/800</Immagine>
+      <Immagine ordine="2">https://picsum.photos/seed/property-11-2/1200/800</Immagine>
+    </Immagini>
+  </Immobile>
+  <Immobile>
+    <CodiceNazione>IT</CodiceNazione>
+    <CodiceComune>023091</CodiceComune>
+    <Riferimento>VR-1012</Riferimento>
+    <Contratto>Affitto</Contratto>
+    <Tipologia>Loft</Tipologia>
+    <Titolo>Loft in zona verde a Verona</Titolo>
+    <Descrizione>Proponiamo loft a Verona, in zona verde, con ambienti luminosi, ottima distribuzione interna e finiture curate. Soluzione ideale per famiglie, professionisti o investimento.</Descrizione>
+    <Prezzo>3308</Prezzo>
+    <Valuta>EUR</Valuta>
+    <Comune>Verona</Comune>
+    <Provincia>VR</Provincia>
+    <Indirizzo>Via Demo 12</Indirizzo>
+    <Zona>Centro</Zona>
+    <Mq>255</Mq>
+    <Camere>4</Camere>
+    <Bagni>1</Bagni>
+    <Piano>Terra</Piano>
+    <ClasseEnergetica>E</ClasseEnergetica>
+    <Stato>Disponibile</Stato>
+    <Giardino>false</Giardino>
+    <Garage>true</Garage>
+    <Ascensore>true</Ascensore>
+    <Latitudine>45.419895</Latitudine>
+    <Longitudine>10.993777</Longitudine>
+    <Immagini>
+      <Immagine ordine="1">https://picsum.photos/seed/property-12-1/1200/800</Immagine>
+      <Immagine ordine="2">https://picsum.photos/seed/property-12-2/1200/800</Immagine>
+      <Immagine ordine="3">https://picsum.photos/seed/property-12-3/1200/800</Immagine>
+    </Immagini>
+  </Immobile>
+  <Immobile>
+    <CodiceNazione>IT</CodiceNazione>
+    <CodiceComune>023091</CodiceComune>
+    <Riferimento>VR-1013</Riferimento>
+    <Contratto>Affitto</Contratto>
+    <Tipologia>Attico</Tipologia>
+    <Titolo>Attico in zona servita a Verona</Titolo>
+    <Descrizione>Proponiamo attico a Verona, in centro, con ambienti luminosi, ottima distribuzione interna e finiture curate. Soluzione ideale per famiglie, professionisti o investimento.</Descrizione>
+    <Prezzo>2365</Prezzo>
+    <Valuta>EUR</Valuta>
+    <Comune>Verona</Comune>
+    <Provincia>VR</Provincia>
+    <Indirizzo>Via Demo 13</Indirizzo>
+    <Zona>Centro</Zona>
+    <Mq>281</Mq>
+    <Camere>2</Camere>
+    <Bagni>1</Bagni>
+    <Piano>Ultimo</Piano>
+    <ClasseEnergetica>G</ClasseEnergetica>
+    <Stato>Disponibile</Stato>
+    <Giardino>true</Giardino>
+    <Garage>true</Garage>
+    <Ascensore>true</Ascensore>
+    <Latitudine>45.418379</Latitudine>
+    <Longitudine>10.990738</Longitudine>
+    <Immagini>
+      <Immagine ordine="1">https://picsum.photos/seed/property-13-1/1200/800</Immagine>
+      <Immagine ordine="2">https://picsum.photos/seed/property-13-2/1200/800</Immagine>
+      <Immagine ordine="3">https://picsum.photos/seed/property-13-3/1200/800</Immagine>
+    </Immagini>
+  </Immobile>
+  <Immobile>
+    <CodiceNazione>IT</CodiceNazione>
+    <CodiceComune>023091</CodiceComune>
+    <Riferimento>VR-1014</Riferimento>
+    <Contratto>Vendita</Contratto>
+    <Tipologia>Appartamento</Tipologia>
+    <Titolo>Appartamento in quartiere storico a Verona</Titolo>
+    <Descrizione>Proponiamo appartamento a Verona, in prima periferia, con ambienti luminosi, ottima distribuzione interna e finiture curate. Soluzione ideale per famiglie, professionisti o investimento.</Descrizione>
+    <Prezzo>368085</Prezzo>
+    <Valuta>EUR</Valuta>
+    <Comune>Verona</Comune>
+    <Provincia>VR</Provincia>
+    <Indirizzo>Via Demo 14</Indirizzo>
+    <Zona>Quartiere storico</Zona>
+    <Mq>239</Mq>
+    <Camere>1</Camere>
+    <Bagni>4</Bagni>
+    <Piano>Ultimo</Piano>
+    <ClasseEnergetica>G</ClasseEnergetica>
+    <Stato>Disponibile</Stato>
+    <Giardino>false</Giardino>
+    <Garage>true</Garage>
+    <Ascensore>true</Ascensore>
+    <Latitudine>45.426202</Latitudine>
+    <Longitudine>11.019723</Longitudine>
+    <Immagini>
+      <Immagine ordine="1">https://picsum.photos/seed/property-14-1/1200/800</Immagine>
+      <Immagine ordine="2">https://picsum.photos/seed/property-14-2/1200/800</Immagine>
+    </Immagini>
+  </Immobile>
+  <Immobile>
+    <CodiceNazione>IT</CodiceNazione>
+    <CodiceComune>028060</CodiceComune>
+    <Riferimento>PD-1015</Riferimento>
+    <Contratto>Vendita</Contratto>
+    <Tipologia>Appartamento</Tipologia>
+    <Titolo>Appartamento in zona servita a Padova</Titolo>
+    <Descrizione>Proponiamo appartamento a Padova, in centro, con ambienti luminosi, ottima distribuzione interna e finiture curate. Soluzione ideale per famiglie, professionisti o investimento.</Descrizione>
+    <Prezzo>149642</Prezzo>
+    <Valuta>EUR</Valuta>
+    <Comune>Padova</Comune>
+    <Provincia>PD</Provincia>
+    <Indirizzo>Via Demo 15</Indirizzo>
+    <Zona>Zona residenziale</Zona>
+    <Mq>289</Mq>
+    <Camere>5</Camere>
+    <Bagni>2</Bagni>
+    <Piano>Terra</Piano>
+    <ClasseEnergetica>A3</ClasseEnergetica>
+    <Stato>Disponibile</Stato>
+    <Giardino>true</Giardino>
+    <Garage>false</Garage>
+    <Ascensore>true</Ascensore>
+    <Latitudine>45.432896</Latitudine>
+    <Longitudine>11.880981</Longitudine>
+    <Immagini>
+      <Immagine ordine="1">https://picsum.photos/seed/property-15-1/1200/800</Immagine>
+      <Immagine ordine="2">https://picsum.photos/seed/property-15-2/1200/800</Immagine>
+    </Immagini>
+  </Immobile>
+  <Immobile>
+    <CodiceNazione>IT</CodiceNazione>
+    <CodiceComune>036023</CodiceComune>
+    <Riferimento>MO-1016</Riferimento>
+    <Contratto>Affitto</Contratto>
+    <Tipologia>Villa</Tipologia>
+    <Titolo>Villa in zona verde a Modena</Titolo>
+    <Descrizione>Proponiamo villa a Modena, in zona verde, con ambienti luminosi, ottima distribuzione interna e finiture curate. Soluzione ideale per famiglie, professionisti o investimento.</Descrizione>
+    <Prezzo>1386</Prezzo>
+    <Valuta>EUR</Valuta>
+    <Comune>Modena</Comune>
+    <Provincia>MO</Provincia>
+    <Indirizzo>Via Demo 16</Indirizzo>
+    <Zona>Prima periferia</Zona>
+    <Mq>312</Mq>
+    <Camere>3</Camere>
+    <Bagni>3</Bagni>
+    <Piano>1</Piano>
+    <ClasseEnergetica>C</ClasseEnergetica>
+    <Stato>Disponibile</Stato>
+    <Giardino>false</Giardino>
+    <Garage>true</Garage>
+    <Ascensore>false</Ascensore>
+    <Latitudine>44.644533</Latitudine>
+    <Longitudine>10.950941</Longitudine>
+    <Immagini>
+      <Immagine ordine="1">https://picsum.photos/seed/property-16-1/1200/800</Immagine>
+      <Immagine ordine="2">https://picsum.photos/seed/property-16-2/1200/800</Immagine>
+    </Immagini>
+  </Immobile>
+  <Immobile>
+    <CodiceNazione>IT</CodiceNazione>
+    <CodiceComune>015146</CodiceComune>
+    <Riferimento>MI-1017</Riferimento>
+    <Contratto>Vendita</Contratto>
+    <Tipologia>Trilocale</Tipologia>
+    <Titolo>Trilocale in prima periferia a Milano</Titolo>
+    <Descrizione>Proponiamo trilocale a Milano, in zona residenziale, con ambienti luminosi, ottima distribuzione interna e finiture curate. Soluzione ideale per famiglie, professionisti o investimento.</Descrizione>
+    <Prezzo>620458</Prezzo>
+    <Valuta>EUR</Valuta>
+    <Comune>Milano</Comune>
+    <Provincia>MI</Provincia>
+    <Indirizzo>Via Demo 17</Indirizzo>
+    <Zona>Prima periferia</Zona>
+    <Mq>82</Mq>
+    <Camere>5</Camere>
+    <Bagni>2</Bagni>
+    <Piano>Terra</Piano>
+    <ClasseEnergetica>B</ClasseEnergetica>
+    <Stato>Disponibile</Stato>
+    <Giardino>false</Giardino>
+    <Garage>false</Garage>
+    <Ascensore>true</Ascensore>
+    <Latitudine>45.460491</Latitudine>
+    <Longitudine>9.192593</Longitudine>
+    <Immagini>
+      <Immagine ordine="1">https://picsum.photos/seed/property-17-1/1200/800</Immagine>
+      <Immagine ordine="2">https://picsum.photos/seed/property-17-2/1200/800</Immagine>
+      <Immagine ordine="3">https://picsum.photos/seed/property-17-3/1200/800</Immagine>
+      <Immagine ordine="4">https://picsum.photos/seed/property-17-4/1200/800</Immagine>
+    </Immagini>
+  </Immobile>
+  <Immobile>
+    <CodiceNazione>IT</CodiceNazione>
+    <CodiceComune>036023</CodiceComune>
+    <Riferimento>MO-1018</Riferimento>
+    <Contratto>Affitto</Contratto>
+    <Tipologia>Appartamento</Tipologia>
+    <Titolo>Appartamento in centro a Modena</Titolo>
+    <Descrizione>Proponiamo appartamento a Modena, in zona verde, con ambienti luminosi, ottima distribuzione interna e finiture curate. Soluzione ideale per famiglie, professionisti o investimento.</Descrizione>
+    <Prezzo>1022</Prezzo>
+    <Valuta>EUR</Valuta>
+    <Comune>Modena</Comune>
+    <Provincia>MO</Provincia>
+    <Indirizzo>Via Demo 18</Indirizzo>
+    <Zona>Zona servita</Zona>
+    <Mq>98</Mq>
+    <Camere>2</Camere>
+    <Bagni>3</Bagni>
+    <Piano>1</Piano>
+    <ClasseEnergetica>C</ClasseEnergetica>
+    <Stato>Disponibile</Stato>
+    <Giardino>false</Giardino>
+    <Garage>true</Garage>
+    <Ascensore>false</Ascensore>
+    <Latitudine>44.629316</Latitudine>
+    <Longitudine>10.933254</Longitudine>
+    <Immagini>
+      <Immagine ordine="1">https://picsum.photos/seed/property-18-1/1200/800</Immagine>
+      <Immagine ordine="2">https://picsum.photos/seed/property-18-2/1200/800</Immagine>
+      <Immagine ordine="3">https://picsum.photos/seed/property-18-3/1200/800</Immagine>
+      <Immagine ordine="4">https://picsum.photos/seed/property-18-4/1200/800</Immagine>
+    </Immagini>
+  </Immobile>
+  <Immobile>
+    <CodiceNazione>IT</CodiceNazione>
+    <CodiceComune>034027</CodiceComune>
+    <Riferimento>PR-1019</Riferimento>
+    <Contratto>Affitto</Contratto>
+    <Tipologia>Trilocale</Tipologia>
+    <Titolo>Trilocale in centro a Parma</Titolo>
+    <Descrizione>Proponiamo trilocale a Parma, in centro, con ambienti luminosi, ottima distribuzione interna e finiture curate. Soluzione ideale per famiglie, professionisti o investimento.</Descrizione>
+    <Prezzo>1683</Prezzo>
+    <Valuta>EUR</Valuta>
+    <Comune>Parma</Comune>
+    <Provincia>PR</Provincia>
+    <Indirizzo>Via Demo 19</Indirizzo>
+    <Zona>Prima periferia</Zona>
+    <Mq>71</Mq>
+    <Camere>1</Camere>
+    <Bagni>4</Bagni>
+    <Piano>1</Piano>
+    <ClasseEnergetica>C</ClasseEnergetica>
+    <Stato>Disponibile</Stato>
+    <Giardino>true</Giardino>
+    <Garage>false</Garage>
+    <Ascensore>false</Ascensore>
+    <Latitudine>44.805154</Latitudine>
+    <Longitudine>10.304612</Longitudine>
+    <Immagini>
+      <Immagine ordine="1">https://picsum.photos/seed/property-19-1/1200/800</Immagine>
+      <Immagine ordine="2">https://picsum.photos/seed/property-19-2/1200/800</Immagine>
+      <Immagine ordine="3">https://picsum.photos/seed/property-19-3/1200/800</Immagine>
+    </Immagini>
+  </Immobile>
+  <Immobile>
+    <CodiceNazione>IT</CodiceNazione>
+    <CodiceComune>034027</CodiceComune>
+    <Riferimento>PR-1020</Riferimento>
+    <Contratto>Affitto</Contratto>
+    <Tipologia>Appartamento</Tipologia>
+    <Titolo>Appartamento in prima periferia a Parma</Titolo>
+    <Descrizione>Proponiamo appartamento a Parma, in prima periferia, con ambienti luminosi, ottima distribuzione interna e finiture curate. Soluzione ideale per famiglie, professionisti o investimento.</Descrizione>
+    <Prezzo>721</Prezzo>
+    <Valuta>EUR</Valuta>
+    <Comune>Parma</Comune>
+    <Provincia>PR</Provincia>
+    <Indirizzo>Via Demo 20</Indirizzo>
+    <Zona>Centro</Zona>
+    <Mq>120</Mq>
+    <Camere>4</Camere>
+    <Bagni>2</Bagni>
+    <Piano>2</Piano>
+    <ClasseEnergetica>B</ClasseEnergetica>
+    <Stato>Disponibile</Stato>
+    <Giardino>true</Giardino>
+    <Garage>true</Garage>
+    <Ascensore>false</Ascensore>
+    <Latitudine>44.818307</Latitudine>
+    <Longitudine>10.350948</Longitudine>
+    <Immagini>
+      <Immagine ordine="1">https://picsum.photos/seed/property-20-1/1200/800</Immagine>
+      <Immagine ordine="2">https://picsum.photos/seed/property-20-2/1200/800</Immagine>
+      <Immagine ordine="3">https://picsum.photos/seed/property-20-3/1200/800</Immagine>
+      <Immagine ordine="4">https://picsum.photos/seed/property-20-4/1200/800</Immagine>
+      <Immagine ordine="5">https://picsum.photos/seed/property-20-5/1200/800</Immagine>
+    </Immagini>
+  </Immobile>
+  <Immobile>
+    <CodiceNazione>IT</CodiceNazione>
+    <CodiceComune>036023</CodiceComune>
+    <Riferimento>MO-1021</Riferimento>
+    <Contratto>Vendita</Contratto>
+    <Tipologia>Attico</Tipologia>
+    <Titolo>Attico in zona residenziale a Modena</Titolo>
+    <Descrizione>Proponiamo attico a Modena, in zona verde, con ambienti luminosi, ottima distribuzione interna e finiture curate. Soluzione ideale per famiglie, professionisti o investimento.</Descrizione>
+    <Prezzo>115990</Prezzo>
+    <Valuta>EUR</Valuta>
+    <Comune>Modena</Comune>
+    <Provincia>MO</Provincia>
+    <Indirizzo>Via Demo 21</Indirizzo>
+    <Zona>Prima periferia</Zona>
+    <Mq>128</Mq>
+    <Camere>2</Camere>
+    <Bagni>4</Bagni>
+    <Piano>3</Piano>
+    <ClasseEnergetica>B</ClasseEnergetica>
+    <Stato>Disponibile</Stato>
+    <Giardino>false</Giardino>
+    <Garage>true</Garage>
+    <Ascensore>true</Ascensore>
+    <Latitudine>44.640053</Latitudine>
+    <Longitudine>10.897523</Longitudine>
+    <Immagini>
+      <Immagine ordine="1">https://picsum.photos/seed/property-21-1/1200/800</Immagine>
+      <Immagine ordine="2">https://picsum.photos/seed/property-21-2/1200/800</Immagine>
+      <Immagine ordine="3">https://picsum.photos/seed/property-21-3/1200/800</Immagine>
+      <Immagine ordine="4">https://picsum.photos/seed/property-21-4/1200/800</Immagine>
+      <Immagine ordine="5">https://picsum.photos/seed/property-21-5/1200/800</Immagine>
+    </Immagini>
+  </Immobile>
+  <Immobile>
+    <CodiceNazione>IT</CodiceNazione>
+    <CodiceComune>001272</CodiceComune>
+    <Riferimento>TO-1022</Riferimento>
+    <Contratto>Affitto</Contratto>
+    <Tipologia>Villetta</Tipologia>
+    <Titolo>Villetta in centro a Torino</Titolo>
+    <Descrizione>Proponiamo villetta a Torino, in zona verde, con ambienti luminosi, ottima distribuzione interna e finiture curate. Soluzione ideale per famiglie, professionisti o investimento.</Descrizione>
+    <Prezzo>1463</Prezzo>
+    <Valuta>EUR</Valuta>
+    <Comune>Torino</Comune>
+    <Provincia>TO</Provincia>
+    <Indirizzo>Via Demo 22</Indirizzo>
+    <Zona>Zona residenziale</Zona>
+    <Mq>224</Mq>
+    <Camere>3</Camere>
+    <Bagni>2</Bagni>
+    <Piano>3</Piano>
+    <ClasseEnergetica>D</ClasseEnergetica>
+    <Stato>Disponibile</Stato>
+    <Giardino>false</Giardino>
+    <Garage>true</Garage>
+    <Ascensore>false</Ascensore>
+    <Latitudine>45.061369</Latitudine>
+    <Longitudine>7.687464</Longitudine>
+    <Immagini>
+      <Immagine ordine="1">https://picsum.photos/seed/property-22-1/1200/800</Immagine>
+      <Immagine ordine="2">https://picsum.photos/seed/property-22-2/1200/800</Immagine>
+      <Immagine ordine="3">https://picsum.photos/seed/property-22-3/1200/800</Immagine>
+      <Immagine ordine="4">https://picsum.photos/seed/property-22-4/1200/800</Immagine>
+    </Immagini>
+  </Immobile>
+  <Immobile>
+    <CodiceNazione>IT</CodiceNazione>
+    <CodiceComune>015146</CodiceComune>
+    <Riferimento>MI-1023</Riferimento>
+    <Contratto>Affitto</Contratto>
+    <Tipologia>Villa</Tipologia>
+    <Titolo>Villa in centro a Milano</Titolo>
+    <Descrizione>Proponiamo villa a Milano, in zona servita, con ambienti luminosi, ottima distribuzione interna e finiture curate. Soluzione ideale per famiglie, professionisti o investimento.</Descrizione>
+    <Prezzo>706</Prezzo>
+    <Valuta>EUR</Valuta>
+    <Comune>Milano</Comune>
+    <Provincia>MI</Provincia>
+    <Indirizzo>Via Demo 23</Indirizzo>
+    <Zona>Quartiere storico</Zona>
+    <Mq>136</Mq>
+    <Camere>5</Camere>
+    <Bagni>3</Bagni>
+    <Piano>2</Piano>
+    <ClasseEnergetica>D</ClasseEnergetica>
+    <Stato>Disponibile</Stato>
+    <Giardino>false</Giardino>
+    <Garage>true</Garage>
+    <Ascensore>false</Ascensore>
+    <Latitudine>45.488170</Latitudine>
+    <Longitudine>9.171405</Longitudine>
+    <Immagini>
+      <Immagine ordine="1">https://picsum.photos/seed/property-23-1/1200/800</Immagine>
+      <Immagine ordine="2">https://picsum.photos/seed/property-23-2/1200/800</Immagine>
+    </Immagini>
+  </Immobile>
+  <Immobile>
+    <CodiceNazione>IT</CodiceNazione>
+    <CodiceComune>023091</CodiceComune>
+    <Riferimento>VR-1024</Riferimento>
+    <Contratto>Vendita</Contratto>
+    <Tipologia>Appartamento</Tipologia>
+    <Titolo>Appartamento in prima periferia a Verona</Titolo>
+    <Descrizione>Proponiamo appartamento a Verona, in zona servita, con ambienti luminosi, ottima distribuzione interna e finiture curate. Soluzione ideale per famiglie, professionisti o investimento.</Descrizione>
+    <Prezzo>786503</Prezzo>
+    <Valuta>EUR</Valuta>
+    <Comune>Verona</Comune>
+    <Provincia>VR</Provincia>
+    <Indirizzo>Via Demo 24</Indirizzo>
+    <Zona>Prima periferia</Zona>
+    <Mq>231</Mq>
+    <Camere>4</Camere>
+    <Bagni>1</Bagni>
+    <Piano>Ultimo</Piano>
+    <ClasseEnergetica>A3</ClasseEnergetica>
+    <Stato>Disponibile</Stato>
+    <Giardino>false</Giardino>
+    <Garage>false</Garage>
+    <Ascensore>false</Ascensore>
+    <Latitudine>45.427971</Latitudine>
+    <Longitudine>11.003433</Longitudine>
+    <Immagini>
+      <Immagine ordine="1">https://picsum.photos/seed/property-24-1/1200/800</Immagine>
+      <Immagine ordine="2">https://picsum.photos/seed/property-24-2/1200/800</Immagine>
+      <Immagine ordine="3">https://picsum.photos/seed/property-24-3/1200/800</Immagine>
+    </Immagini>
+  </Immobile>
+  <Immobile>
+    <CodiceNazione>IT</CodiceNazione>
+    <CodiceComune>001272</CodiceComune>
+    <Riferimento>TO-1025</Riferimento>
+    <Contratto>Affitto</Contratto>
+    <Tipologia>Bilocale</Tipologia>
+    <Titolo>Bilocale in zona servita a Torino</Titolo>
+    <Descrizione>Proponiamo bilocale a Torino, in centro, con ambienti luminosi, ottima distribuzione interna e finiture curate. Soluzione ideale per famiglie, professionisti o investimento.</Descrizione>
+    <Prezzo>2213</Prezzo>
+    <Valuta>EUR</Valuta>
+    <Comune>Torino</Comune>
+    <Provincia>TO</Provincia>
+    <Indirizzo>Via Demo 25</Indirizzo>
+    <Zona>Prima periferia</Zona>
+    <Mq>134</Mq>
+    <Camere>5</Camere>
+    <Bagni>3</Bagni>
+    <Piano>2</Piano>
+    <ClasseEnergetica>B</ClasseEnergetica>
+    <Stato>Disponibile</Stato>
+    <Giardino>false</Giardino>
+    <Garage>false</Garage>
+    <Ascensore>false</Ascensore>
+    <Latitudine>45.066807</Latitudine>
+    <Longitudine>7.697438</Longitudine>
+    <Immagini>
+      <Immagine ordine="1">https://picsum.photos/seed/property-25-1/1200/800</Immagine>
+      <Immagine ordine="2">https://picsum.photos/seed/property-25-2/1200/800</Immagine>
+      <Immagine ordine="3">https://picsum.photos/seed/property-25-3/1200/800</Immagine>
+      <Immagine ordine="4">https://picsum.photos/seed/property-25-4/1200/800</Immagine>
+      <Immagine ordine="5">https://picsum.photos/seed/property-25-5/1200/800</Immagine>
+    </Immagini>
+  </Immobile>
+  <Immobile>
+    <CodiceNazione>IT</CodiceNazione>
+    <CodiceComune>058091</CodiceComune>
+    <Riferimento>RM-1026</Riferimento>
+    <Contratto>Affitto</Contratto>
+    <Tipologia>Villa</Tipologia>
+    <Titolo>Villa in zona residenziale a Roma</Titolo>
+    <Descrizione>Proponiamo villa a Roma, in zona verde, con ambienti luminosi, ottima distribuzione interna e finiture curate. Soluzione ideale per famiglie, professionisti o investimento.</Descrizione>
+    <Prezzo>932</Prezzo>
+    <Valuta>EUR</Valuta>
+    <Comune>Roma</Comune>
+    <Provincia>RM</Provincia>
+    <Indirizzo>Via Demo 26</Indirizzo>
+    <Zona>Prima periferia</Zona>
+    <Mq>308</Mq>
+    <Camere>5</Camere>
+    <Bagni>3</Bagni>
+    <Piano>1</Piano>
+    <ClasseEnergetica>B</ClasseEnergetica>
+    <Stato>Disponibile</Stato>
+    <Giardino>true</Giardino>
+    <Garage>true</Garage>
+    <Ascensore>true</Ascensore>
+    <Latitudine>41.887491</Latitudine>
+    <Longitudine>12.494908</Longitudine>
+    <Immagini>
+      <Immagine ordine="1">https://picsum.photos/seed/property-26-1/1200/800</Immagine>
+      <Immagine ordine="2">https://picsum.photos/seed/property-26-2/1200/800</Immagine>
+    </Immagini>
+  </Immobile>
+  <Immobile>
+    <CodiceNazione>IT</CodiceNazione>
+    <CodiceComune>039014</CodiceComune>
+    <Riferimento>RA-1027</Riferimento>
+    <Contratto>Vendita</Contratto>
+    <Tipologia>Bilocale</Tipologia>
+    <Titolo>Bilocale in zona residenziale a Ravenna</Titolo>
+    <Descrizione>Proponiamo bilocale a Ravenna, in zona verde, con ambienti luminosi, ottima distribuzione interna e finiture curate. Soluzione ideale per famiglie, professionisti o investimento.</Descrizione>
+    <Prezzo>345836</Prezzo>
+    <Valuta>EUR</Valuta>
+    <Comune>Ravenna</Comune>
+    <Provincia>RA</Provincia>
+    <Indirizzo>Via Demo 27</Indirizzo>
+    <Zona>Zona verde</Zona>
+    <Mq>241</Mq>
+    <Camere>4</Camere>
+    <Bagni>4</Bagni>
+    <Piano>Terra</Piano>
+    <ClasseEnergetica>A3</ClasseEnergetica>
+    <Stato>Disponibile</Stato>
+    <Giardino>false</Giardino>
+    <Garage>true</Garage>
+    <Ascensore>true</Ascensore>
+    <Latitudine>44.436647</Latitudine>
+    <Longitudine>12.215255</Longitudine>
+    <Immagini>
+      <Immagine ordine="1">https://picsum.photos/seed/property-27-1/1200/800</Immagine>
+      <Immagine ordine="2">https://picsum.photos/seed/property-27-2/1200/800</Immagine>
+      <Immagine ordine="3">https://picsum.photos/seed/property-27-3/1200/800</Immagine>
+      <Immagine ordine="4">https://picsum.photos/seed/property-27-4/1200/800</Immagine>
+      <Immagine ordine="5">https://picsum.photos/seed/property-27-5/1200/800</Immagine>
+    </Immagini>
+  </Immobile>
+  <Immobile>
+    <CodiceNazione>IT</CodiceNazione>
+    <CodiceComune>015146</CodiceComune>
+    <Riferimento>MI-1028</Riferimento>
+    <Contratto>Vendita</Contratto>
+    <Tipologia>Villetta</Tipologia>
+    <Titolo>Villetta in zona servita a Milano</Titolo>
+    <Descrizione>Proponiamo villetta a Milano, in zona servita, con ambienti luminosi, ottima distribuzione interna e finiture curate. Soluzione ideale per famiglie, professionisti o investimento.</Descrizione>
+    <Prezzo>790005</Prezzo>
+    <Valuta>EUR</Valuta>
+    <Comune>Milano</Comune>
+    <Provincia>MI</Provincia>
+    <Indirizzo>Via Demo 28</Indirizzo>
+    <Zona>Zona servita</Zona>
+    <Mq>278</Mq>
+    <Camere>2</Camere>
+    <Bagni>4</Bagni>
+    <Piano>2</Piano>
+    <ClasseEnergetica>F</ClasseEnergetica>
+    <Stato>Disponibile</Stato>
+    <Giardino>false</Giardino>
+    <Garage>false</Garage>
+    <Ascensore>true</Ascensore>
+    <Latitudine>45.478819</Latitudine>
+    <Longitudine>9.188480</Longitudine>
+    <Immagini>
+      <Immagine ordine="1">https://picsum.photos/seed/property-28-1/1200/800</Immagine>
+      <Immagine ordine="2">https://picsum.photos/seed/property-28-2/1200/800</Immagine>
+      <Immagine ordine="3">https://picsum.photos/seed/property-28-3/1200/800</Immagine>
+      <Immagine ordine="4">https://picsum.photos/seed/property-28-4/1200/800</Immagine>
+    </Immagini>
+  </Immobile>
+  <Immobile>
+    <CodiceNazione>IT</CodiceNazione>
+    <CodiceComune>001272</CodiceComune>
+    <Riferimento>TO-1029</Riferimento>
+    <Contratto>Affitto</Contratto>
+    <Tipologia>Rustico</Tipologia>
+    <Titolo>Rustico in zona verde a Torino</Titolo>
+    <Descrizione>Proponiamo rustico a Torino, in prima periferia, con ambienti luminosi, ottima distribuzione interna e finiture curate. Soluzione ideale per famiglie, professionisti o investimento.</Descrizione>
+    <Prezzo>867</Prezzo>
+    <Valuta>EUR</Valuta>
+    <Comune>Torino</Comune>
+    <Provincia>TO</Provincia>
+    <Indirizzo>Via Demo 29</Indirizzo>
+    <Zona>Zona residenziale</Zona>
+    <Mq>167</Mq>
+    <Camere>3</Camere>
+    <Bagni>4</Bagni>
+    <Piano>2</Piano>
+    <ClasseEnergetica>D</ClasseEnergetica>
+    <Stato>Disponibile</Stato>
+    <Giardino>false</Giardino>
+    <Garage>true</Garage>
+    <Ascensore>true</Ascensore>
+    <Latitudine>45.049350</Latitudine>
+    <Longitudine>7.679882</Longitudine>
+    <Immagini>
+      <Immagine ordine="1">https://picsum.photos/seed/property-29-1/1200/800</Immagine>
+      <Immagine ordine="2">https://picsum.photos/seed/property-29-2/1200/800</Immagine>
+      <Immagine ordine="3">https://picsum.photos/seed/property-29-3/1200/800</Immagine>
+    </Immagini>
+  </Immobile>
+  <Immobile>
+    <CodiceNazione>IT</CodiceNazione>
+    <CodiceComune>001272</CodiceComune>
+    <Riferimento>TO-1030</Riferimento>
+    <Contratto>Affitto</Contratto>
+    <Tipologia>Villa</Tipologia>
+    <Titolo>Villa in centro a Torino</Titolo>
+    <Descrizione>Proponiamo villa a Torino, in zona residenziale, con ambienti luminosi, ottima distribuzione interna e finiture curate. Soluzione ideale per famiglie, professionisti o investimento.</Descrizione>
+    <Prezzo>2253</Prezzo>
+    <Valuta>EUR</Valuta>
+    <Comune>Torino</Comune>
+    <Provincia>TO</Provincia>
+    <Indirizzo>Via Demo 30</Indirizzo>
+    <Zona>Quartiere storico</Zona>
+    <Mq>253</Mq>
+    <Camere>3</Camere>
+    <Bagni>4</Bagni>
+    <Piano>3</Piano>
+    <ClasseEnergetica>A4</ClasseEnergetica>
+    <Stato>Disponibile</Stato>
+    <Giardino>false</Giardino>
+    <Garage>false</Garage>
+    <Ascensore>true</Ascensore>
+    <Latitudine>45.096864</Latitudine>
+    <Longitudine>7.674817</Longitudine>
+    <Immagini>
+      <Immagine ordine="1">https://picsum.photos/seed/property-30-1/1200/800</Immagine>
+      <Immagine ordine="2">https://picsum.photos/seed/property-30-2/1200/800</Immagine>
+      <Immagine ordine="3">https://picsum.photos/seed/property-30-3/1200/800</Immagine>
+      <Immagine ordine="4">https://picsum.photos/seed/property-30-4/1200/800</Immagine>
+      <Immagine ordine="5">https://picsum.photos/seed/property-30-5/1200/800</Immagine>
+    </Immagini>
+  </Immobile>
+  <Immobile>
+    <CodiceNazione>IT</CodiceNazione>
+    <CodiceComune>023091</CodiceComune>
+    <Riferimento>VR-1031</Riferimento>
+    <Contratto>Affitto</Contratto>
+    <Tipologia>Villetta</Tipologia>
+    <Titolo>Villetta in centro a Verona</Titolo>
+    <Descrizione>Proponiamo villetta a Verona, in quartiere storico, con ambienti luminosi, ottima distribuzione interna e finiture curate. Soluzione ideale per famiglie, professionisti o investimento.</Descrizione>
+    <Prezzo>2539</Prezzo>
+    <Valuta>EUR</Valuta>
+    <Comune>Verona</Comune>
+    <Provincia>VR</Provincia>
+    <Indirizzo>Via Demo 31</Indirizzo>
+    <Zona>Prima periferia</Zona>
+    <Mq>157</Mq>
+    <Camere>3</Camere>
+    <Bagni>4</Bagni>
+    <Piano>Ultimo</Piano>
+    <ClasseEnergetica>E</ClasseEnergetica>
+    <Stato>Disponibile</Stato>
+    <Giardino>true</Giardino>
+    <Garage>false</Garage>
+    <Ascensore>true</Ascensore>
+    <Latitudine>45.467243</Latitudine>
+    <Longitudine>10.993647</Longitudine>
+    <Immagini>
+      <Immagine ordine="1">https://picsum.photos/seed/property-31-1/1200/800</Immagine>
+      <Immagine ordine="2">https://picsum.photos/seed/property-31-2/1200/800</Immagine>
+      <Immagine ordine="3">https://picsum.photos/seed/property-31-3/1200/800</Immagine>
+      <Immagine ordine="4">https://picsum.photos/seed/property-31-4/1200/800</Immagine>
+      <Immagine ordine="5">https://picsum.photos/seed/property-31-5/1200/800</Immagine>
+    </Immagini>
+  </Immobile>
+  <Immobile>
+    <CodiceNazione>IT</CodiceNazione>
+    <CodiceComune>036023</CodiceComune>
+    <Riferimento>MO-1032</Riferimento>
+    <Contratto>Vendita</Contratto>
+    <Tipologia>Appartamento</Tipologia>
+    <Titolo>Appartamento in centro a Modena</Titolo>
+    <Descrizione>Proponiamo appartamento a Modena, in prima periferia, con ambienti luminosi, ottima distribuzione interna e finiture curate. Soluzione ideale per famiglie, professionisti o investimento.</Descrizione>
+    <Prezzo>280556</Prezzo>
+    <Valuta>EUR</Valuta>
+    <Comune>Modena</Comune>
+    <Provincia>MO</Provincia>
+    <Indirizzo>Via Demo 32</Indirizzo>
+    <Zona>Quartiere storico</Zona>
+    <Mq>264</Mq>
+    <Camere>2</Camere>
+    <Bagni>4</Bagni>
+    <Piano>2</Piano>
+    <ClasseEnergetica>B</ClasseEnergetica>
+    <Stato>Disponibile</Stato>
+    <Giardino>false</Giardino>
+    <Garage>false</Garage>
+    <Ascensore>false</Ascensore>
+    <Latitudine>44.662774</Latitudine>
+    <Longitudine>10.917948</Longitudine>
+    <Immagini>
+      <Immagine ordine="1">https://picsum.photos/seed/property-32-1/1200/800</Immagine>
+      <Immagine ordine="2">https://picsum.photos/seed/property-32-2/1200/800</Immagine>
+      <Immagine ordine="3">https://picsum.photos/seed/property-32-3/1200/800</Immagine>
+      <Immagine ordine="4">https://picsum.photos/seed/property-32-4/1200/800</Immagine>
+      <Immagine ordine="5">https://picsum.photos/seed/property-32-5/1200/800</Immagine>
+    </Immagini>
+  </Immobile>
+  <Immobile>
+    <CodiceNazione>IT</CodiceNazione>
+    <CodiceComune>048017</CodiceComune>
+    <Riferimento>FI-1033</Riferimento>
+    <Contratto>Affitto</Contratto>
+    <Tipologia>Villa</Tipologia>
+    <Titolo>Villa in zona residenziale a Firenze</Titolo>
+    <Descrizione>Proponiamo villa a Firenze, in zona verde, con ambienti luminosi, ottima distribuzione interna e finiture curate. Soluzione ideale per famiglie, professionisti o investimento.</Descrizione>
+    <Prezzo>1983</Prezzo>
+    <Valuta>EUR</Valuta>
+    <Comune>Firenze</Comune>
+    <Provincia>FI</Provincia>
+    <Indirizzo>Via Demo 33</Indirizzo>
+    <Zona>Centro</Zona>
+    <Mq>54</Mq>
+    <Camere>5</Camere>
+    <Bagni>1</Bagni>
+    <Piano>Ultimo</Piano>
+    <ClasseEnergetica>A4</ClasseEnergetica>
+    <Stato>Disponibile</Stato>
+    <Giardino>true</Giardino>
+    <Garage>true</Garage>
+    <Ascensore>true</Ascensore>
+    <Latitudine>43.789954</Latitudine>
+    <Longitudine>11.263080</Longitudine>
+    <Immagini>
+      <Immagine ordine="1">https://picsum.photos/seed/property-33-1/1200/800</Immagine>
+      <Immagine ordine="2">https://picsum.photos/seed/property-33-2/1200/800</Immagine>
+      <Immagine ordine="3">https://picsum.photos/seed/property-33-3/1200/800</Immagine>
+    </Immagini>
+  </Immobile>
+  <Immobile>
+    <CodiceNazione>IT</CodiceNazione>
+    <CodiceComune>058091</CodiceComune>
+    <Riferimento>RM-1034</Riferimento>
+    <Contratto>Vendita</Contratto>
+    <Tipologia>Trilocale</Tipologia>
+    <Titolo>Trilocale in prima periferia a Roma</Titolo>
+    <Descrizione>Proponiamo trilocale a Roma, in zona residenziale, con ambienti luminosi, ottima distribuzione interna e finiture curate. Soluzione ideale per famiglie, professionisti o investimento.</Descrizione>
+    <Prezzo>894150</Prezzo>
+    <Valuta>EUR</Valuta>
+    <Comune>Roma</Comune>
+    <Provincia>RM</Provincia>
+    <Indirizzo>Via Demo 34</Indirizzo>
+    <Zona>Zona servita</Zona>
+    <Mq>156</Mq>
+    <Camere>4</Camere>
+    <Bagni>3</Bagni>
+    <Piano>4</Piano>
+    <ClasseEnergetica>A3</ClasseEnergetica>
+    <Stato>Disponibile</Stato>
+    <Giardino>true</Giardino>
+    <Garage>false</Garage>
+    <Ascensore>true</Ascensore>
+    <Latitudine>41.907521</Latitudine>
+    <Longitudine>12.522133</Longitudine>
+    <Immagini>
+      <Immagine ordine="1">https://picsum.photos/seed/property-34-1/1200/800</Immagine>
+      <Immagine ordine="2">https://picsum.photos/seed/property-34-2/1200/800</Immagine>
+      <Immagine ordine="3">https://picsum.photos/seed/property-34-3/1200/800</Immagine>
+      <Immagine ordine="4">https://picsum.photos/seed/property-34-4/1200/800</Immagine>
+      <Immagine ordine="5">https://picsum.photos/seed/property-34-5/1200/800</Immagine>
+    </Immagini>
+  </Immobile>
+  <Immobile>
+    <CodiceNazione>IT</CodiceNazione>
+    <CodiceComune>023091</CodiceComune>
+    <Riferimento>VR-1035</Riferimento>
+    <Contratto>Vendita</Contratto>
+    <Tipologia>Villetta</Tipologia>
+    <Titolo>Villetta in zona servita a Verona</Titolo>
+    <Descrizione>Proponiamo villetta a Verona, in centro, con ambienti luminosi, ottima distribuzione interna e finiture curate. Soluzione ideale per famiglie, professionisti o investimento.</Descrizione>
+    <Prezzo>807497</Prezzo>
+    <Valuta>EUR</Valuta>
+    <Comune>Verona</Comune>
+    <Provincia>VR</Provincia>
+    <Indirizzo>Via Demo 35</Indirizzo>
+    <Zona>Zona servita</Zona>
+    <Mq>169</Mq>
+    <Camere>1</Camere>
+    <Bagni>3</Bagni>
+    <Piano>Terra</Piano>
+    <ClasseEnergetica>D</ClasseEnergetica>
+    <Stato>Disponibile</Stato>
+    <Giardino>false</Giardino>
+    <Garage>false</Garage>
+    <Ascensore>true</Ascensore>
+    <Latitudine>45.438758</Latitudine>
+    <Longitudine>10.982074</Longitudine>
+    <Immagini>
+      <Immagine ordine="1">https://picsum.photos/seed/property-35-1/1200/800</Immagine>
+      <Immagine ordine="2">https://picsum.photos/seed/property-35-2/1200/800</Immagine>
+      <Immagine ordine="3">https://picsum.photos/seed/property-35-3/1200/800</Immagine>
+      <Immagine ordine="4">https://picsum.photos/seed/property-35-4/1200/800</Immagine>
+      <Immagine ordine="5">https://picsum.photos/seed/property-35-5/1200/800</Immagine>
+    </Immagini>
+  </Immobile>
+  <Immobile>
+    <CodiceNazione>IT</CodiceNazione>
+    <CodiceComune>039014</CodiceComune>
+    <Riferimento>RA-1036</Riferimento>
+    <Contratto>Affitto</Contratto>
+    <Tipologia>Villa</Tipologia>
+    <Titolo>Villa in zona residenziale a Ravenna</Titolo>
+    <Descrizione>Proponiamo villa a Ravenna, in zona verde, con ambienti luminosi, ottima distribuzione interna e finiture curate. Soluzione ideale per famiglie, professionisti o investimento.</Descrizione>
+    <Prezzo>2333</Prezzo>
+    <Valuta>EUR</Valuta>
+    <Comune>Ravenna</Comune>
+    <Provincia>RA</Provincia>
+    <Indirizzo>Via Demo 36</Indirizzo>
+    <Zona>Zona servita</Zona>
+    <Mq>230</Mq>
+    <Camere>4</Camere>
+    <Bagni>2</Bagni>
+    <Piano>Ultimo</Piano>
+    <ClasseEnergetica>C</ClasseEnergetica>
+    <Stato>Disponibile</Stato>
+    <Giardino>false</Giardino>
+    <Garage>false</Garage>
+    <Ascensore>false</Ascensore>
+    <Latitudine>44.437944</Latitudine>
+    <Longitudine>12.209048</Longitudine>
+    <Immagini>
+      <Immagine ordine="1">https://picsum.photos/seed/property-36-1/1200/800</Immagine>
+      <Immagine ordine="2">https://picsum.photos/seed/property-36-2/1200/800</Immagine>
+      <Immagine ordine="3">https://picsum.photos/seed/property-36-3/1200/800</Immagine>
+      <Immagine ordine="4">https://picsum.photos/seed/property-36-4/1200/800</Immagine>
+    </Immagini>
+  </Immobile>
+  <Immobile>
+    <CodiceNazione>IT</CodiceNazione>
+    <CodiceComune>001272</CodiceComune>
+    <Riferimento>TO-1037</Riferimento>
+    <Contratto>Affitto</Contratto>
+    <Tipologia>Villa</Tipologia>
+    <Titolo>Villa in zona servita a Torino</Titolo>
+    <Descrizione>Proponiamo villa a Torino, in zona verde, con ambienti luminosi, ottima distribuzione interna e finiture curate. Soluzione ideale per famiglie, professionisti o investimento.</Descrizione>
+    <Prezzo>2884</Prezzo>
+    <Valuta>EUR</Valuta>
+    <Comune>Torino</Comune>
+    <Provincia>TO</Provincia>
+    <Indirizzo>Via Demo 37</Indirizzo>
+    <Zona>Quartiere storico</Zona>
+    <Mq>275</Mq>
+    <Camere>2</Camere>
+    <Bagni>4</Bagni>
+    <Piano>2</Piano>
+    <ClasseEnergetica>A4</ClasseEnergetica>
+    <Stato>Disponibile</Stato>
+    <Giardino>false</Giardino>
+    <Garage>false</Garage>
+    <Ascensore>true</Ascensore>
+    <Latitudine>45.069553</Latitudine>
+    <Longitudine>7.678189</Longitudine>
+    <Immagini>
+      <Immagine ordine="1">https://picsum.photos/seed/property-37-1/1200/800</Immagine>
+      <Immagine ordine="2">https://picsum.photos/seed/property-37-2/1200/800</Immagine>
+      <Immagine ordine="3">https://picsum.photos/seed/property-37-3/1200/800</Immagine>
+      <Immagine ordine="4">https://picsum.photos/seed/property-37-4/1200/800</Immagine>
+    </Immagini>
+  </Immobile>
+  <Immobile>
+    <CodiceNazione>IT</CodiceNazione>
+    <CodiceComune>028060</CodiceComune>
+    <Riferimento>PD-1038</Riferimento>
+    <Contratto>Affitto</Contratto>
+    <Tipologia>Rustico</Tipologia>
+    <Titolo>Rustico in zona residenziale a Padova</Titolo>
+    <Descrizione>Proponiamo rustico a Padova, in zona verde, con ambienti luminosi, ottima distribuzione interna e finiture curate. Soluzione ideale per famiglie, professionisti o investimento.</Descrizione>
+    <Prezzo>900</Prezzo>
+    <Valuta>EUR</Valuta>
+    <Comune>Padova</Comune>
+    <Provincia>PD</Provincia>
+    <Indirizzo>Via Demo 38</Indirizzo>
+    <Zona>Quartiere storico</Zona>
+    <Mq>50</Mq>
+    <Camere>5</Camere>
+    <Bagni>2</Bagni>
+    <Piano>3</Piano>
+    <ClasseEnergetica>G</ClasseEnergetica>
+    <Stato>Disponibile</Stato>
+    <Giardino>true</Giardino>
+    <Garage>false</Garage>
+    <Ascensore>false</Ascensore>
+    <Latitudine>45.403290</Latitudine>
+    <Longitudine>11.847835</Longitudine>
+    <Immagini>
+      <Immagine ordine="1">https://picsum.photos/seed/property-38-1/1200/800</Immagine>
+      <Immagine ordine="2">https://picsum.photos/seed/property-38-2/1200/800</Immagine>
+      <Immagine ordine="3">https://picsum.photos/seed/property-38-3/1200/800</Immagine>
+      <Immagine ordine="4">https://picsum.photos/seed/property-38-4/1200/800</Immagine>
+    </Immagini>
+  </Immobile>
+  <Immobile>
+    <CodiceNazione>IT</CodiceNazione>
+    <CodiceComune>001272</CodiceComune>
+    <Riferimento>TO-1039</Riferimento>
+    <Contratto>Vendita</Contratto>
+    <Tipologia>Bilocale</Tipologia>
+    <Titolo>Bilocale in zona servita a Torino</Titolo>
+    <Descrizione>Proponiamo bilocale a Torino, in zona servita, con ambienti luminosi, ottima distribuzione interna e finiture curate. Soluzione ideale per famiglie, professionisti o investimento.</Descrizione>
+    <Prezzo>586249</Prezzo>
+    <Valuta>EUR</Valuta>
+    <Comune>Torino</Comune>
+    <Provincia>TO</Provincia>
+    <Indirizzo>Via Demo 39</Indirizzo>
+    <Zona>Prima periferia</Zona>
+    <Mq>201</Mq>
+    <Camere>5</Camere>
+    <Bagni>3</Bagni>
+    <Piano>3</Piano>
+    <ClasseEnergetica>G</ClasseEnergetica>
+    <Stato>Disponibile</Stato>
+    <Giardino>false</Giardino>
+    <Garage>false</Garage>
+    <Ascensore>false</Ascensore>
+    <Latitudine>45.056555</Latitudine>
+    <Longitudine>7.671984</Longitudine>
+    <Immagini>
+      <Immagine ordine="1">https://picsum.photos/seed/property-39-1/1200/800</Immagine>
+      <Immagine ordine="2">https://picsum.photos/seed/property-39-2/1200/800</Immagine>
+    </Immagini>
+  </Immobile>
+  <Immobile>
+    <CodiceNazione>IT</CodiceNazione>
+    <CodiceComune>001272</CodiceComune>
+    <Riferimento>TO-1040</Riferimento>
+    <Contratto>Vendita</Contratto>
+    <Tipologia>Loft</Tipologia>
+    <Titolo>Loft in zona verde a Torino</Titolo>
+    <Descrizione>Proponiamo loft a Torino, in quartiere storico, con ambienti luminosi, ottima distribuzione interna e finiture curate. Soluzione ideale per famiglie, professionisti o investimento.</Descrizione>
+    <Prezzo>316895</Prezzo>
+    <Valuta>EUR</Valuta>
+    <Comune>Torino</Comune>
+    <Provincia>TO</Provincia>
+    <Indirizzo>Via Demo 40</Indirizzo>
+    <Zona>Prima periferia</Zona>
+    <Mq>319</Mq>
+    <Camere>2</Camere>
+    <Bagni>2</Bagni>
+    <Piano>Ultimo</Piano>
+    <ClasseEnergetica>G</ClasseEnergetica>
+    <Stato>Disponibile</Stato>
+    <Giardino>false</Giardino>
+    <Garage>true</Garage>
+    <Ascensore>true</Ascensore>
+    <Latitudine>45.058075</Latitudine>
+    <Longitudine>7.678553</Longitudine>
+    <Immagini>
+      <Immagine ordine="1">https://picsum.photos/seed/property-40-1/1200/800</Immagine>
+      <Immagine ordine="2">https://picsum.photos/seed/property-40-2/1200/800</Immagine>
+      <Immagine ordine="3">https://picsum.photos/seed/property-40-3/1200/800</Immagine>
+      <Immagine ordine="4">https://picsum.photos/seed/property-40-4/1200/800</Immagine>
+    </Immagini>
+  </Immobile>
+  <Immobile>
+    <CodiceNazione>IT</CodiceNazione>
+    <CodiceComune>015146</CodiceComune>
+    <Riferimento>MI-1041</Riferimento>
+    <Contratto>Affitto</Contratto>
+    <Tipologia>Attico</Tipologia>
+    <Titolo>Attico in zona residenziale a Milano</Titolo>
+    <Descrizione>Proponiamo attico a Milano, in zona verde, con ambienti luminosi, ottima distribuzione interna e finiture curate. Soluzione ideale per famiglie, professionisti o investimento.</Descrizione>
+    <Prezzo>3406</Prezzo>
+    <Valuta>EUR</Valuta>
+    <Comune>Milano</Comune>
+    <Provincia>MI</Provincia>
+    <Indirizzo>Via Demo 41</Indirizzo>
+    <Zona>Quartiere storico</Zona>
+    <Mq>68</Mq>
+    <Camere>1</Camere>
+    <Bagni>3</Bagni>
+    <Piano>Terra</Piano>
+    <ClasseEnergetica>A4</ClasseEnergetica>
+    <Stato>Disponibile</Stato>
+    <Giardino>false</Giardino>
+    <Garage>false</Garage>
+    <Ascensore>false</Ascensore>
+    <Latitudine>45.460628</Latitudine>
+    <Longitudine>9.171062</Longitudine>
+    <Immagini>
+      <Immagine ordine="1">https://picsum.photos/seed/property-41-1/1200/800</Immagine>
+      <Immagine ordine="2">https://picsum.photos/seed/property-41-2/1200/800</Immagine>
+    </Immagini>
+  </Immobile>
+  <Immobile>
+    <CodiceNazione>IT</CodiceNazione>
+    <CodiceComune>048017</CodiceComune>
+    <Riferimento>FI-1042</Riferimento>
+    <Contratto>Vendita</Contratto>
+    <Tipologia>Trilocale</Tipologia>
+    <Titolo>Trilocale in zona servita a Firenze</Titolo>
+    <Descrizione>Proponiamo trilocale a Firenze, in zona verde, con ambienti luminosi, ottima distribuzione interna e finiture curate. Soluzione ideale per famiglie, professionisti o investimento.</Descrizione>
+    <Prezzo>167680</Prezzo>
+    <Valuta>EUR</Valuta>
+    <Comune>Firenze</Comune>
+    <Provincia>FI</Provincia>
+    <Indirizzo>Via Demo 42</Indirizzo>
+    <Zona>Zona verde</Zona>
+    <Mq>78</Mq>
+    <Camere>4</Camere>
+    <Bagni>4</Bagni>
+    <Piano>Terra</Piano>
+    <ClasseEnergetica>A2</ClasseEnergetica>
+    <Stato>Disponibile</Stato>
+    <Giardino>true</Giardino>
+    <Garage>false</Garage>
+    <Ascensore>true</Ascensore>
+    <Latitudine>43.799235</Latitudine>
+    <Longitudine>11.232907</Longitudine>
+    <Immagini>
+      <Immagine ordine="1">https://picsum.photos/seed/property-42-1/1200/800</Immagine>
+      <Immagine ordine="2">https://picsum.photos/seed/property-42-2/1200/800</Immagine>
+      <Immagine ordine="3">https://picsum.photos/seed/property-42-3/1200/800</Immagine>
+      <Immagine ordine="4">https://picsum.photos/seed/property-42-4/1200/800</Immagine>
+      <Immagine ordine="5">https://picsum.photos/seed/property-42-5/1200/800</Immagine>
+    </Immagini>
+  </Immobile>
+  <Immobile>
+    <CodiceNazione>IT</CodiceNazione>
+    <CodiceComune>036023</CodiceComune>
+    <Riferimento>MO-1043</Riferimento>
+    <Contratto>Affitto</Contratto>
+    <Tipologia>Villetta</Tipologia>
+    <Titolo>Villetta in quartiere storico a Modena</Titolo>
+    <Descrizione>Proponiamo villetta a Modena, in prima periferia, con ambienti luminosi, ottima distribuzione interna e finiture curate. Soluzione ideale per famiglie, professionisti o investimento.</Descrizione>
+    <Prezzo>2960</Prezzo>
+    <Valuta>EUR</Valuta>
+    <Comune>Modena</Comune>
+    <Provincia>MO</Provincia>
+    <Indirizzo>Via Demo 43</Indirizzo>
+    <Zona>Zona servita</Zona>
+    <Mq>275</Mq>
+    <Camere>4</Camere>
+    <Bagni>3</Bagni>
+    <Piano>4</Piano>
+    <ClasseEnergetica>A4</ClasseEnergetica>
+    <Stato>Disponibile</Stato>
+    <Giardino>true</Giardino>
+    <Garage>true</Garage>
+    <Ascensore>true</Ascensore>
+    <Latitudine>44.632979</Latitudine>
+    <Longitudine>10.900071</Longitudine>
+    <Immagini>
+      <Immagine ordine="1">https://picsum.photos/seed/property-43-1/1200/800</Immagine>
+      <Immagine ordine="2">https://picsum.photos/seed/property-43-2/1200/800</Immagine>
+      <Immagine ordine="3">https://picsum.photos/seed/property-43-3/1200/800</Immagine>
+    </Immagini>
+  </Immobile>
+  <Immobile>
+    <CodiceNazione>IT</CodiceNazione>
+    <CodiceComune>058091</CodiceComune>
+    <Riferimento>RM-1044</Riferimento>
+    <Contratto>Vendita</Contratto>
+    <Tipologia>Villa</Tipologia>
+    <Titolo>Villa in zona servita a Roma</Titolo>
+    <Descrizione>Proponiamo villa a Roma, in quartiere storico, con ambienti luminosi, ottima distribuzione interna e finiture curate. Soluzione ideale per famiglie, professionisti o investimento.</Descrizione>
+    <Prezzo>812858</Prezzo>
+    <Valuta>EUR</Valuta>
+    <Comune>Roma</Comune>
+    <Provincia>RM</Provincia>
+    <Indirizzo>Via Demo 44</Indirizzo>
+    <Zona>Prima periferia</Zona>
+    <Mq>46</Mq>
+    <Camere>4</Camere>
+    <Bagni>4</Bagni>
+    <Piano>Terra</Piano>
+    <ClasseEnergetica>B</ClasseEnergetica>
+    <Stato>Disponibile</Stato>
+    <Giardino>false</Giardino>
+    <Garage>false</Garage>
+    <Ascensore>false</Ascensore>
+    <Latitudine>41.877071</Latitudine>
+    <Longitudine>12.480405</Longitudine>
+    <Immagini>
+      <Immagine ordine="1">https://picsum.photos/seed/property-44-1/1200/800</Immagine>
+      <Immagine ordine="2">https://picsum.photos/seed/property-44-2/1200/800</Immagine>
+      <Immagine ordine="3">https://picsum.photos/seed/property-44-3/1200/800</Immagine>
+      <Immagine ordine="4">https://picsum.photos/seed/property-44-4/1200/800</Immagine>
+    </Immagini>
+  </Immobile>
+  <Immobile>
+    <CodiceNazione>IT</CodiceNazione>
+    <CodiceComune>036023</CodiceComune>
+    <Riferimento>MO-1045</Riferimento>
+    <Contratto>Affitto</Contratto>
+    <Tipologia>Villetta</Tipologia>
+    <Titolo>Villetta in zona residenziale a Modena</Titolo>
+    <Descrizione>Proponiamo villetta a Modena, in prima periferia, con ambienti luminosi, ottima distribuzione interna e finiture curate. Soluzione ideale per famiglie, professionisti o investimento.</Descrizione>
+    <Prezzo>3202</Prezzo>
+    <Valuta>EUR</Valuta>
+    <Comune>Modena</Comune>
+    <Provincia>MO</Provincia>
+    <Indirizzo>Via Demo 45</Indirizzo>
+    <Zona>Zona residenziale</Zona>
+    <Mq>103</Mq>
+    <Camere>5</Camere>
+    <Bagni>2</Bagni>
+    <Piano>Terra</Piano>
+    <ClasseEnergetica>A4</ClasseEnergetica>
+    <Stato>Disponibile</Stato>
+    <Giardino>true</Giardino>
+    <Garage>false</Garage>
+    <Ascensore>false</Ascensore>
+    <Latitudine>44.643449</Latitudine>
+    <Longitudine>10.923322</Longitudine>
+    <Immagini>
+      <Immagine ordine="1">https://picsum.photos/seed/property-45-1/1200/800</Immagine>
+      <Immagine ordine="2">https://picsum.photos/seed/property-45-2/1200/800</Immagine>
+      <Immagine ordine="3">https://picsum.photos/seed/property-45-3/1200/800</Immagine>
+      <Immagine ordine="4">https://picsum.photos/seed/property-45-4/1200/800</Immagine>
+    </Immagini>
+  </Immobile>
+  <Immobile>
+    <CodiceNazione>IT</CodiceNazione>
+    <CodiceComune>023091</CodiceComune>
+    <Riferimento>VR-1046</Riferimento>
+    <Contratto>Affitto</Contratto>
+    <Tipologia>Rustico</Tipologia>
+    <Titolo>Rustico in zona verde a Verona</Titolo>
+    <Descrizione>Proponiamo rustico a Verona, in prima periferia, con ambienti luminosi, ottima distribuzione interna e finiture curate. Soluzione ideale per famiglie, professionisti o investimento.</Descrizione>
+    <Prezzo>2319</Prezzo>
+    <Valuta>EUR</Valuta>
+    <Comune>Verona</Comune>
+    <Provincia>VR</Provincia>
+    <Indirizzo>Via Demo 46</Indirizzo>
+    <Zona>Zona servita</Zona>
+    <Mq>269</Mq>
+    <Camere>1</Camere>
+    <Bagni>1</Bagni>
+    <Piano>2</Piano>
+    <ClasseEnergetica>A4</ClasseEnergetica>
+    <Stato>Disponibile</Stato>
+    <Giardino>true</Giardino>
+    <Garage>true</Garage>
+    <Ascensore>true</Ascensore>
+    <Latitudine>45.468374</Latitudine>
+    <Longitudine>11.001937</Longitudine>
+    <Immagini>
+      <Immagine ordine="1">https://picsum.photos/seed/property-46-1/1200/800</Immagine>
+      <Immagine ordine="2">https://picsum.photos/seed/property-46-2/1200/800</Immagine>
+      <Immagine ordine="3">https://picsum.photos/seed/property-46-3/1200/800</Immagine>
+      <Immagine ordine="4">https://picsum.photos/seed/property-46-4/1200/800</Immagine>
+    </Immagini>
+  </Immobile>
+  <Immobile>
+    <CodiceNazione>IT</CodiceNazione>
+    <CodiceComune>036023</CodiceComune>
+    <Riferimento>MO-1047</Riferimento>
+    <Contratto>Vendita</Contratto>
+    <Tipologia>Appartamento</Tipologia>
+    <Titolo>Appartamento in zona residenziale a Modena</Titolo>
+    <Descrizione>Proponiamo appartamento a Modena, in zona servita, con ambienti luminosi, ottima distribuzione interna e finiture curate. Soluzione ideale per famiglie, professionisti o investimento.</Descrizione>
+    <Prezzo>381668</Prezzo>
+    <Valuta>EUR</Valuta>
+    <Comune>Modena</Comune>
+    <Provincia>MO</Provincia>
+    <Indirizzo>Via Demo 47</Indirizzo>
+    <Zona>Quartiere storico</Zona>
+    <Mq>285</Mq>
+    <Camere>5</Camere>
+    <Bagni>4</Bagni>
+    <Piano>Ultimo</Piano>
+    <ClasseEnergetica>F</ClasseEnergetica>
+    <Stato>Disponibile</Stato>
+    <Giardino>true</Giardino>
+    <Garage>false</Garage>
+    <Ascensore>false</Ascensore>
+    <Latitudine>44.641601</Latitudine>
+    <Longitudine>10.914463</Longitudine>
+    <Immagini>
+      <Immagine ordine="1">https://picsum.photos/seed/property-47-1/1200/800</Immagine>
+      <Immagine ordine="2">https://picsum.photos/seed/property-47-2/1200/800</Immagine>
+    </Immagini>
+  </Immobile>
+  <Immobile>
+    <CodiceNazione>IT</CodiceNazione>
+    <CodiceComune>058091</CodiceComune>
+    <Riferimento>RM-1048</Riferimento>
+    <Contratto>Affitto</Contratto>
+    <Tipologia>Loft</Tipologia>
+    <Titolo>Loft in centro a Roma</Titolo>
+    <Descrizione>Proponiamo loft a Roma, in quartiere storico, con ambienti luminosi, ottima distribuzione interna e finiture curate. Soluzione ideale per famiglie, professionisti o investimento.</Descrizione>
+    <Prezzo>2803</Prezzo>
+    <Valuta>EUR</Valuta>
+    <Comune>Roma</Comune>
+    <Provincia>RM</Provincia>
+    <Indirizzo>Via Demo 48</Indirizzo>
+    <Zona>Centro</Zona>
+    <Mq>298</Mq>
+    <Camere>3</Camere>
+    <Bagni>4</Bagni>
+    <Piano>2</Piano>
+    <ClasseEnergetica>C</ClasseEnergetica>
+    <Stato>Disponibile</Stato>
+    <Giardino>false</Giardino>
+    <Garage>true</Garage>
+    <Ascensore>false</Ascensore>
+    <Latitudine>41.924695</Latitudine>
+    <Longitudine>12.515896</Longitudine>
+    <Immagini>
+      <Immagine ordine="1">https://picsum.photos/seed/property-48-1/1200/800</Immagine>
+      <Immagine ordine="2">https://picsum.photos/seed/property-48-2/1200/800</Immagine>
+    </Immagini>
+  </Immobile>
+  <Immobile>
+    <CodiceNazione>IT</CodiceNazione>
+    <CodiceComune>034027</CodiceComune>
+    <Riferimento>PR-1049</Riferimento>
+    <Contratto>Affitto</Contratto>
+    <Tipologia>Trilocale</Tipologia>
+    <Titolo>Trilocale in quartiere storico a Parma</Titolo>
+    <Descrizione>Proponiamo trilocale a Parma, in zona verde, con ambienti luminosi, ottima distribuzione interna e finiture curate. Soluzione ideale per famiglie, professionisti o investimento.</Descrizione>
+    <Prezzo>3100</Prezzo>
+    <Valuta>EUR</Valuta>
+    <Comune>Parma</Comune>
+    <Provincia>PR</Provincia>
+    <Indirizzo>Via Demo 49</Indirizzo>
+    <Zona>Quartiere storico</Zona>
+    <Mq>72</Mq>
+    <Camere>2</Camere>
+    <Bagni>3</Bagni>
+    <Piano>Terra</Piano>
+    <ClasseEnergetica>B</ClasseEnergetica>
+    <Stato>Disponibile</Stato>
+    <Giardino>false</Giardino>
+    <Garage>true</Garage>
+    <Ascensore>false</Ascensore>
+    <Latitudine>44.797787</Latitudine>
+    <Longitudine>10.339795</Longitudine>
+    <Immagini>
+      <Immagine ordine="1">https://picsum.photos/seed/property-49-1/1200/800</Immagine>
+      <Immagine ordine="2">https://picsum.photos/seed/property-49-2/1200/800</Immagine>
+    </Immagini>
+  </Immobile>
+  <Immobile>
+    <CodiceNazione>IT</CodiceNazione>
+    <CodiceComune>015146</CodiceComune>
+    <Riferimento>MI-1050</Riferimento>
+    <Contratto>Vendita</Contratto>
+    <Tipologia>Villetta</Tipologia>
+    <Titolo>Villetta in quartiere storico a Milano</Titolo>
+    <Descrizione>Proponiamo villetta a Milano, in centro, con ambienti luminosi, ottima distribuzione interna e finiture curate. Soluzione ideale per famiglie, professionisti o investimento.</Descrizione>
+    <Prezzo>669077</Prezzo>
+    <Valuta>EUR</Valuta>
+    <Comune>Milano</Comune>
+    <Provincia>MI</Provincia>
+    <Indirizzo>Via Demo 50</Indirizzo>
+    <Zona>Zona residenziale</Zona>
+    <Mq>204</Mq>
+    <Camere>5</Camere>
+    <Bagni>1</Bagni>
+    <Piano>Terra</Piano>
+    <ClasseEnergetica>F</ClasseEnergetica>
+    <Stato>Disponibile</Stato>
+    <Giardino>true</Giardino>
+    <Garage>true</Garage>
+    <Ascensore>false</Ascensore>
+    <Latitudine>45.490159</Latitudine>
+    <Longitudine>9.177512</Longitudine>
+    <Immagini>
+      <Immagine ordine="1">https://picsum.photos/seed/property-50-1/1200/800</Immagine>
+      <Immagine ordine="2">https://picsum.photos/seed/property-50-2/1200/800</Immagine>
+      <Immagine ordine="3">https://picsum.photos/seed/property-50-3/1200/800</Immagine>
+      <Immagine ordine="4">https://picsum.photos/seed/property-50-4/1200/800</Immagine>
+    </Immagini>
+  </Immobile>
+  <Immobile>
+    <CodiceNazione>IT</CodiceNazione>
+    <CodiceComune>023091</CodiceComune>
+    <Riferimento>VR-1051</Riferimento>
+    <Contratto>Affitto</Contratto>
+    <Tipologia>Trilocale</Tipologia>
+    <Titolo>Trilocale in zona residenziale a Verona</Titolo>
+    <Descrizione>Proponiamo trilocale a Verona, in zona servita, con ambienti luminosi, ottima distribuzione interna e finiture curate. Soluzione ideale per famiglie, professionisti o investimento.</Descrizione>
+    <Prezzo>2121</Prezzo>
+    <Valuta>EUR</Valuta>
+    <Comune>Verona</Comune>
+    <Provincia>VR</Provincia>
+    <Indirizzo>Via Demo 51</Indirizzo>
+    <Zona>Zona servita</Zona>
+    <Mq>169</Mq>
+    <Camere>4</Camere>
+    <Bagni>2</Bagni>
+    <Piano>Ultimo</Piano>
+    <ClasseEnergetica>A2</ClasseEnergetica>
+    <Stato>Disponibile</Stato>
+    <Giardino>true</Giardino>
+    <Garage>false</Garage>
+    <Ascensore>false</Ascensore>
+    <Latitudine>45.428793</Latitudine>
+    <Longitudine>11.008863</Longitudine>
+    <Immagini>
+      <Immagine ordine="1">https://picsum.photos/seed/property-51-1/1200/800</Immagine>
+      <Immagine ordine="2">https://picsum.photos/seed/property-51-2/1200/800</Immagine>
+      <Immagine ordine="3">https://picsum.photos/seed/property-51-3/1200/800</Immagine>
+      <Immagine ordine="4">https://picsum.photos/seed/property-51-4/1200/800</Immagine>
+    </Immagini>
+  </Immobile>
+  <Immobile>
+    <CodiceNazione>IT</CodiceNazione>
+    <CodiceComune>015146</CodiceComune>
+    <Riferimento>MI-1052</Riferimento>
+    <Contratto>Affitto</Contratto>
+    <Tipologia>Rustico</Tipologia>
+    <Titolo>Rustico in quartiere storico a Milano</Titolo>
+    <Descrizione>Proponiamo rustico a Milano, in prima periferia, con ambienti luminosi, ottima distribuzione interna e finiture curate. Soluzione ideale per famiglie, professionisti o investimento.</Descrizione>
+    <Prezzo>2756</Prezzo>
+    <Valuta>EUR</Valuta>
+    <Comune>Milano</Comune>
+    <Provincia>MI</Provincia>
+    <Indirizzo>Via Demo 52</Indirizzo>
+    <Zona>Prima periferia</Zona>
+    <Mq>295</Mq>
+    <Camere>2</Camere>
+    <Bagni>4</Bagni>
+    <Piano>4</Piano>
+    <ClasseEnergetica>G</ClasseEnergetica>
+    <Stato>Disponibile</Stato>
+    <Giardino>false</Giardino>
+    <Garage>false</Garage>
+    <Ascensore>false</Ascensore>
+    <Latitudine>45.486376</Latitudine>
+    <Longitudine>9.218846</Longitudine>
+    <Immagini>
+      <Immagine ordine="1">https://picsum.photos/seed/property-52-1/1200/800</Immagine>
+      <Immagine ordine="2">https://picsum.photos/seed/property-52-2/1200/800</Immagine>
+      <Immagine ordine="3">https://picsum.photos/seed/property-52-3/1200/800</Immagine>
+    </Immagini>
+  </Immobile>
+  <Immobile>
+    <CodiceNazione>IT</CodiceNazione>
+    <CodiceComune>036023</CodiceComune>
+    <Riferimento>MO-1053</Riferimento>
+    <Contratto>Vendita</Contratto>
+    <Tipologia>Bilocale</Tipologia>
+    <Titolo>Bilocale in quartiere storico a Modena</Titolo>
+    <Descrizione>Proponiamo bilocale a Modena, in zona verde, con ambienti luminosi, ottima distribuzione interna e finiture curate. Soluzione ideale per famiglie, professionisti o investimento.</Descrizione>
+    <Prezzo>870879</Prezzo>
+    <Valuta>EUR</Valuta>
+    <Comune>Modena</Comune>
+    <Provincia>MO</Provincia>
+    <Indirizzo>Via Demo 53</Indirizzo>
+    <Zona>Quartiere storico</Zona>
+    <Mq>255</Mq>
+    <Camere>1</Camere>
+    <Bagni>3</Bagni>
+    <Piano>3</Piano>
+    <ClasseEnergetica>A2</ClasseEnergetica>
+    <Stato>Disponibile</Stato>
+    <Giardino>false</Giardino>
+    <Garage>true</Garage>
+    <Ascensore>true</Ascensore>
+    <Latitudine>44.647237</Latitudine>
+    <Longitudine>10.930611</Longitudine>
+    <Immagini>
+      <Immagine ordine="1">https://picsum.photos/seed/property-53-1/1200/800</Immagine>
+      <Immagine ordine="2">https://picsum.photos/seed/property-53-2/1200/800</Immagine>
+    </Immagini>
+  </Immobile>
+  <Immobile>
+    <CodiceNazione>IT</CodiceNazione>
+    <CodiceComune>039014</CodiceComune>
+    <Riferimento>RA-1054</Riferimento>
+    <Contratto>Affitto</Contratto>
+    <Tipologia>Villa</Tipologia>
+    <Titolo>Villa in zona residenziale a Ravenna</Titolo>
+    <Descrizione>Proponiamo villa a Ravenna, in centro, con ambienti luminosi, ottima distribuzione interna e finiture curate. Soluzione ideale per famiglie, professionisti o investimento.</Descrizione>
+    <Prezzo>3231</Prezzo>
+    <Valuta>EUR</Valuta>
+    <Comune>Ravenna</Comune>
+    <Provincia>RA</Provincia>
+    <Indirizzo>Via Demo 54</Indirizzo>
+    <Zona>Quartiere storico</Zona>
+    <Mq>52</Mq>
+    <Camere>2</Camere>
+    <Bagni>4</Bagni>
+    <Piano>2</Piano>
+    <ClasseEnergetica>D</ClasseEnergetica>
+    <Stato>Disponibile</Stato>
+    <Giardino>false</Giardino>
+    <Garage>true</Garage>
+    <Ascensore>false</Ascensore>
+    <Latitudine>44.439540</Latitudine>
+    <Longitudine>12.225061</Longitudine>
+    <Immagini>
+      <Immagine ordine="1">https://picsum.photos/seed/property-54-1/1200/800</Immagine>
+      <Immagine ordine="2">https://picsum.photos/seed/property-54-2/1200/800</Immagine>
+      <Immagine ordine="3">https://picsum.photos/seed/property-54-3/1200/800</Immagine>
+      <Immagine ordine="4">https://picsum.photos/seed/property-54-4/1200/800</Immagine>
+      <Immagine ordine="5">https://picsum.photos/seed/property-54-5/1200/800</Immagine>
+    </Immagini>
+  </Immobile>
+  <Immobile>
+    <CodiceNazione>IT</CodiceNazione>
+    <CodiceComune>028060</CodiceComune>
+    <Riferimento>PD-1055</Riferimento>
+    <Contratto>Vendita</Contratto>
+    <Tipologia>Trilocale</Tipologia>
+    <Titolo>Trilocale in zona verde a Padova</Titolo>
+    <Descrizione>Proponiamo trilocale a Padova, in centro, con ambienti luminosi, ottima distribuzione interna e finiture curate. Soluzione ideale per famiglie, professionisti o investimento.</Descrizione>
+    <Prezzo>328536</Prezzo>
+    <Valuta>EUR</Valuta>
+    <Comune>Padova</Comune>
+    <Provincia>PD</Provincia>
+    <Indirizzo>Via Demo 55</Indirizzo>
+    <Zona>Quartiere storico</Zona>
+    <Mq>80</Mq>
+    <Camere>2</Camere>
+    <Bagni>3</Bagni>
+    <Piano>Terra</Piano>
+    <ClasseEnergetica>A3</ClasseEnergetica>
+    <Stato>Disponibile</Stato>
+    <Giardino>false</Giardino>
+    <Garage>true</Garage>
+    <Ascensore>false</Ascensore>
+    <Latitudine>45.430605</Latitudine>
+    <Longitudine>11.849559</Longitudine>
+    <Immagini>
+      <Immagine ordine="1">https://picsum.photos/seed/property-55-1/1200/800</Immagine>
+      <Immagine ordine="2">https://picsum.photos/seed/property-55-2/1200/800</Immagine>
+    </Immagini>
+  </Immobile>
+  <Immobile>
+    <CodiceNazione>IT</CodiceNazione>
+    <CodiceComune>048017</CodiceComune>
+    <Riferimento>FI-1056</Riferimento>
+    <Contratto>Affitto</Contratto>
+    <Tipologia>Loft</Tipologia>
+    <Titolo>Loft in quartiere storico a Firenze</Titolo>
+    <Descrizione>Proponiamo loft a Firenze, in zona servita, con ambienti luminosi, ottima distribuzione interna e finiture curate. Soluzione ideale per famiglie, professionisti o investimento.</Descrizione>
+    <Prezzo>2725</Prezzo>
+    <Valuta>EUR</Valuta>
+    <Comune>Firenze</Comune>
+    <Provincia>FI</Provincia>
+    <Indirizzo>Via Demo 56</Indirizzo>
+    <Zona>Zona verde</Zona>
+    <Mq>265</Mq>
+    <Camere>2</Camere>
+    <Bagni>2</Bagni>
+    <Piano>1</Piano>
+    <ClasseEnergetica>A2</ClasseEnergetica>
+    <Stato>Disponibile</Stato>
+    <Giardino>true</Giardino>
+    <Garage>true</Garage>
+    <Ascensore>false</Ascensore>
+    <Latitudine>43.776783</Latitudine>
+    <Longitudine>11.240250</Longitudine>
+    <Immagini>
+      <Immagine ordine="1">https://picsum.photos/seed/property-56-1/1200/800</Immagine>
+      <Immagine ordine="2">https://picsum.photos/seed/property-56-2/1200/800</Immagine>
+      <Immagine ordine="3">https://picsum.photos/seed/property-56-3/1200/800</Immagine>
+    </Immagini>
+  </Immobile>
+  <Immobile>
+    <CodiceNazione>IT</CodiceNazione>
+    <CodiceComune>001272</CodiceComune>
+    <Riferimento>TO-1057</Riferimento>
+    <Contratto>Affitto</Contratto>
+    <Tipologia>Trilocale</Tipologia>
+    <Titolo>Trilocale in prima periferia a Torino</Titolo>
+    <Descrizione>Proponiamo trilocale a Torino, in zona verde, con ambienti luminosi, ottima distribuzione interna e finiture curate. Soluzione ideale per famiglie, professionisti o investimento.</Descrizione>
+    <Prezzo>2455</Prezzo>
+    <Valuta>EUR</Valuta>
+    <Comune>Torino</Comune>
+    <Provincia>TO</Provincia>
+    <Indirizzo>Via Demo 57</Indirizzo>
+    <Zona>Zona servita</Zona>
+    <Mq>280</Mq>
+    <Camere>3</Camere>
+    <Bagni>1</Bagni>
+    <Piano>1</Piano>
+    <ClasseEnergetica>A3</ClasseEnergetica>
+    <Stato>Disponibile</Stato>
+    <Giardino>false</Giardino>
+    <Garage>false</Garage>
+    <Ascensore>false</Ascensore>
+    <Latitudine>45.078636</Latitudine>
+    <Longitudine>7.682359</Longitudine>
+    <Immagini>
+      <Immagine ordine="1">https://picsum.photos/seed/property-57-1/1200/800</Immagine>
+      <Immagine ordine="2">https://picsum.photos/seed/property-57-2/1200/800</Immagine>
+      <Immagine ordine="3">https://picsum.photos/seed/property-57-3/1200/800</Immagine>
+      <Immagine ordine="4">https://picsum.photos/seed/property-57-4/1200/800</Immagine>
+    </Immagini>
+  </Immobile>
+  <Immobile>
+    <CodiceNazione>IT</CodiceNazione>
+    <CodiceComune>039014</CodiceComune>
+    <Riferimento>RA-1058</Riferimento>
+    <Contratto>Vendita</Contratto>
+    <Tipologia>Rustico</Tipologia>
+    <Titolo>Rustico in quartiere storico a Ravenna</Titolo>
+    <Descrizione>Proponiamo rustico a Ravenna, in zona servita, con ambienti luminosi, ottima distribuzione interna e finiture curate. Soluzione ideale per famiglie, professionisti o investimento.</Descrizione>
+    <Prezzo>338728</Prezzo>
+    <Valuta>EUR</Valuta>
+    <Comune>Ravenna</Comune>
+    <Provincia>RA</Provincia>
+    <Indirizzo>Via Demo 58</Indirizzo>
+    <Zona>Prima periferia</Zona>
+    <Mq>241</Mq>
+    <Camere>4</Camere>
+    <Bagni>1</Bagni>
+    <Piano>4</Piano>
+    <ClasseEnergetica>C</ClasseEnergetica>
+    <Stato>Disponibile</Stato>
+    <Giardino>false</Giardino>
+    <Garage>true</Garage>
+    <Ascensore>false</Ascensore>
+    <Latitudine>44.404869</Latitudine>
+    <Longitudine>12.207456</Longitudine>
+    <Immagini>
+      <Immagine ordine="1">https://picsum.photos/seed/property-58-1/1200/800</Immagine>
+      <Immagine ordine="2">https://picsum.photos/seed/property-58-2/1200/800</Immagine>
+    </Immagini>
+  </Immobile>
+  <Immobile>
+    <CodiceNazione>IT</CodiceNazione>
+    <CodiceComune>036023</CodiceComune>
+    <Riferimento>MO-1059</Riferimento>
+    <Contratto>Affitto</Contratto>
+    <Tipologia>Trilocale</Tipologia>
+    <Titolo>Trilocale in zona verde a Modena</Titolo>
+    <Descrizione>Proponiamo trilocale a Modena, in zona residenziale, con ambienti luminosi, ottima distribuzione interna e finiture curate. Soluzione ideale per famiglie, professionisti o investimento.</Descrizione>
+    <Prezzo>1447</Prezzo>
+    <Valuta>EUR</Valuta>
+    <Comune>Modena</Comune>
+    <Provincia>MO</Provincia>
+    <Indirizzo>Via Demo 59</Indirizzo>
+    <Zona>Zona servita</Zona>
+    <Mq>162</Mq>
+    <Camere>5</Camere>
+    <Bagni>3</Bagni>
+    <Piano>2</Piano>
+    <ClasseEnergetica>A2</ClasseEnergetica>
+    <Stato>Disponibile</Stato>
+    <Giardino>true</Giardino>
+    <Garage>true</Garage>
+    <Ascensore>false</Ascensore>
+    <Latitudine>44.664417</Latitudine>
+    <Longitudine>10.897202</Longitudine>
+    <Immagini>
+      <Immagine ordine="1">https://picsum.photos/seed/property-59-1/1200/800</Immagine>
+      <Immagine ordine="2">https://picsum.photos/seed/property-59-2/1200/800</Immagine>
+      <Immagine ordine="3">https://picsum.photos/seed/property-59-3/1200/800</Immagine>
+      <Immagine ordine="4">https://picsum.photos/seed/property-59-4/1200/800</Immagine>
+    </Immagini>
+  </Immobile>
+  <Immobile>
+    <CodiceNazione>IT</CodiceNazione>
+    <CodiceComune>058091</CodiceComune>
+    <Riferimento>RM-1060</Riferimento>
+    <Contratto>Affitto</Contratto>
+    <Tipologia>Villa</Tipologia>
+    <Titolo>Villa in zona residenziale a Roma</Titolo>
+    <Descrizione>Proponiamo villa a Roma, in zona servita, con ambienti luminosi, ottima distribuzione interna e finiture curate. Soluzione ideale per famiglie, professionisti o investimento.</Descrizione>
+    <Prezzo>1372</Prezzo>
+    <Valuta>EUR</Valuta>
+    <Comune>Roma</Comune>
+    <Provincia>RM</Provincia>
+    <Indirizzo>Via Demo 60</Indirizzo>
+    <Zona>Prima periferia</Zona>
+    <Mq>212</Mq>
+    <Camere>4</Camere>
+    <Bagni>2</Bagni>
+    <Piano>4</Piano>
+    <ClasseEnergetica>G</ClasseEnergetica>
+    <Stato>Disponibile</Stato>
+    <Giardino>false</Giardino>
+    <Garage>true</Garage>
+    <Ascensore>false</Ascensore>
+    <Latitudine>41.927643</Latitudine>
+    <Longitudine>12.523051</Longitudine>
+    <Immagini>
+      <Immagine ordine="1">https://picsum.photos/seed/property-60-1/1200/800</Immagine>
+      <Immagine ordine="2">https://picsum.photos/seed/property-60-2/1200/800</Immagine>
+      <Immagine ordine="3">https://picsum.photos/seed/property-60-3/1200/800</Immagine>
+      <Immagine ordine="4">https://picsum.photos/seed/property-60-4/1200/800</Immagine>
+    </Immagini>
+  </Immobile>
+  <Immobile>
+    <CodiceNazione>IT</CodiceNazione>
+    <CodiceComune>028060</CodiceComune>
+    <Riferimento>PD-1061</Riferimento>
+    <Contratto>Affitto</Contratto>
+    <Tipologia>Villa</Tipologia>
+    <Titolo>Villa in zona verde a Padova</Titolo>
+    <Descrizione>Proponiamo villa a Padova, in zona verde, con ambienti luminosi, ottima distribuzione interna e finiture curate. Soluzione ideale per famiglie, professionisti o investimento.</Descrizione>
+    <Prezzo>3320</Prezzo>
+    <Valuta>EUR</Valuta>
+    <Comune>Padova</Comune>
+    <Provincia>PD</Provincia>
+    <Indirizzo>Via Demo 61</Indirizzo>
+    <Zona>Quartiere storico</Zona>
+    <Mq>83</Mq>
+    <Camere>2</Camere>
+    <Bagni>2</Bagni>
+    <Piano>4</Piano>
+    <ClasseEnergetica>D</ClasseEnergetica>
+    <Stato>Disponibile</Stato>
+    <Giardino>true</Giardino>
+    <Garage>false</Garage>
+    <Ascensore>true</Ascensore>
+    <Latitudine>45.392268</Latitudine>
+    <Longitudine>11.854215</Longitudine>
+    <Immagini>
+      <Immagine ordine="1">https://picsum.photos/seed/property-61-1/1200/800</Immagine>
+      <Immagine ordine="2">https://picsum.photos/seed/property-61-2/1200/800</Immagine>
+      <Immagine ordine="3">https://picsum.photos/seed/property-61-3/1200/800</Immagine>
+      <Immagine ordine="4">https://picsum.photos/seed/property-61-4/1200/800</Immagine>
+    </Immagini>
+  </Immobile>
+  <Immobile>
+    <CodiceNazione>IT</CodiceNazione>
+    <CodiceComune>048017</CodiceComune>
+    <Riferimento>FI-1062</Riferimento>
+    <Contratto>Affitto</Contratto>
+    <Tipologia>Bilocale</Tipologia>
+    <Titolo>Bilocale in zona servita a Firenze</Titolo>
+    <Descrizione>Proponiamo bilocale a Firenze, in zona servita, con ambienti luminosi, ottima distribuzione interna e finiture curate. Soluzione ideale per famiglie, professionisti o investimento.</Descrizione>
+    <Prezzo>652</Prezzo>
+    <Valuta>EUR</Valuta>
+    <Comune>Firenze</Comune>
+    <Provincia>FI</Provincia>
+    <Indirizzo>Via Demo 62</Indirizzo>
+    <Zona>Prima periferia</Zona>
+    <Mq>100</Mq>
+    <Camere>2</Camere>
+    <Bagni>4</Bagni>
+    <Piano>4</Piano>
+    <ClasseEnergetica>B</ClasseEnergetica>
+    <Stato>Disponibile</Stato>
+    <Giardino>true</Giardino>
+    <Garage>false</Garage>
+    <Ascensore>false</Ascensore>
+    <Latitudine>43.778554</Latitudine>
+    <Longitudine>11.232801</Longitudine>
+    <Immagini>
+      <Immagine ordine="1">https://picsum.photos/seed/property-62-1/1200/800</Immagine>
+      <Immagine ordine="2">https://picsum.photos/seed/property-62-2/1200/800</Immagine>
+    </Immagini>
+  </Immobile>
+  <Immobile>
+    <CodiceNazione>IT</CodiceNazione>
+    <CodiceComune>015146</CodiceComune>
+    <Riferimento>MI-1063</Riferimento>
+    <Contratto>Affitto</Contratto>
+    <Tipologia>Rustico</Tipologia>
+    <Titolo>Rustico in zona residenziale a Milano</Titolo>
+    <Descrizione>Proponiamo rustico a Milano, in quartiere storico, con ambienti luminosi, ottima distribuzione interna e finiture curate. Soluzione ideale per famiglie, professionisti o investimento.</Descrizione>
+    <Prezzo>2751</Prezzo>
+    <Valuta>EUR</Valuta>
+    <Comune>Milano</Comune>
+    <Provincia>MI</Provincia>
+    <Indirizzo>Via Demo 63</Indirizzo>
+    <Zona>Quartiere storico</Zona>
+    <Mq>104</Mq>
+    <Camere>1</Camere>
+    <Bagni>2</Bagni>
+    <Piano>2</Piano>
+    <ClasseEnergetica>G</ClasseEnergetica>
+    <Stato>Disponibile</Stato>
+    <Giardino>false</Giardino>
+    <Garage>true</Garage>
+    <Ascensore>false</Ascensore>
+    <Latitudine>45.473495</Latitudine>
+    <Longitudine>9.210022</Longitudine>
+    <Immagini>
+      <Immagine ordine="1">https://picsum.photos/seed/property-63-1/1200/800</Immagine>
+      <Immagine ordine="2">https://picsum.photos/seed/property-63-2/1200/800</Immagine>
+      <Immagine ordine="3">https://picsum.photos/seed/property-63-3/1200/800</Immagine>
+      <Immagine ordine="4">https://picsum.photos/seed/property-63-4/1200/800</Immagine>
+      <Immagine ordine="5">https://picsum.photos/seed/property-63-5/1200/800</Immagine>
+    </Immagini>
+  </Immobile>
+  <Immobile>
+    <CodiceNazione>IT</CodiceNazione>
+    <CodiceComune>048017</CodiceComune>
+    <Riferimento>FI-1064</Riferimento>
+    <Contratto>Affitto</Contratto>
+    <Tipologia>Appartamento</Tipologia>
+    <Titolo>Appartamento in prima periferia a Firenze</Titolo>
+    <Descrizione>Proponiamo appartamento a Firenze, in centro, con ambienti luminosi, ottima distribuzione interna e finiture curate. Soluzione ideale per famiglie, professionisti o investimento.</Descrizione>
+    <Prezzo>1517</Prezzo>
+    <Valuta>EUR</Valuta>
+    <Comune>Firenze</Comune>
+    <Provincia>FI</Provincia>
+    <Indirizzo>Via Demo 64</Indirizzo>
+    <Zona>Zona verde</Zona>
+    <Mq>156</Mq>
+    <Camere>4</Camere>
+    <Bagni>4</Bagni>
+    <Piano>2</Piano>
+    <ClasseEnergetica>G</ClasseEnergetica>
+    <Stato>Disponibile</Stato>
+    <Giardino>false</Giardino>
+    <Garage>true</Garage>
+    <Ascensore>false</Ascensore>
+    <Latitudine>43.756153</Latitudine>
+    <Longitudine>11.283892</Longitudine>
+    <Immagini>
+      <Immagine ordine="1">https://picsum.photos/seed/property-64-1/1200/800</Immagine>
+      <Immagine ordine="2">https://picsum.photos/seed/property-64-2/1200/800</Immagine>
+      <Immagine ordine="3">https://picsum.photos/seed/property-64-3/1200/800</Immagine>
+      <Immagine ordine="4">https://picsum.photos/seed/property-64-4/1200/800</Immagine>
+      <Immagine ordine="5">https://picsum.photos/seed/property-64-5/1200/800</Immagine>
+    </Immagini>
+  </Immobile>
+  <Immobile>
+    <CodiceNazione>IT</CodiceNazione>
+    <CodiceComune>037006</CodiceComune>
+    <Riferimento>BO-1065</Riferimento>
+    <Contratto>Vendita</Contratto>
+    <Tipologia>Villetta</Tipologia>
+    <Titolo>Villetta in zona servita a Bologna</Titolo>
+    <Descrizione>Proponiamo villetta a Bologna, in zona residenziale, con ambienti luminosi, ottima distribuzione interna e finiture curate. Soluzione ideale per famiglie, professionisti o investimento.</Descrizione>
+    <Prezzo>222040</Prezzo>
+    <Valuta>EUR</Valuta>
+    <Comune>Bologna</Comune>
+    <Provincia>BO</Provincia>
+    <Indirizzo>Via Demo 65</Indirizzo>
+    <Zona>Centro</Zona>
+    <Mq>70</Mq>
+    <Camere>3</Camere>
+    <Bagni>2</Bagni>
+    <Piano>4</Piano>
+    <ClasseEnergetica>B</ClasseEnergetica>
+    <Stato>Disponibile</Stato>
+    <Giardino>true</Giardino>
+    <Garage>true</Garage>
+    <Ascensore>false</Ascensore>
+    <Latitudine>44.511362</Latitudine>
+    <Longitudine>11.359919</Longitudine>
+    <Immagini>
+      <Immagine ordine="1">https://picsum.photos/seed/property-65-1/1200/800</Immagine>
+      <Immagine ordine="2">https://picsum.photos/seed/property-65-2/1200/800</Immagine>
+    </Immagini>
+  </Immobile>
+  <Immobile>
+    <CodiceNazione>IT</CodiceNazione>
+    <CodiceComune>048017</CodiceComune>
+    <Riferimento>FI-1066</Riferimento>
+    <Contratto>Vendita</Contratto>
+    <Tipologia>Attico</Tipologia>
+    <Titolo>Attico in centro a Firenze</Titolo>
+    <Descrizione>Proponiamo attico a Firenze, in zona residenziale, con ambienti luminosi, ottima distribuzione interna e finiture curate. Soluzione ideale per famiglie, professionisti o investimento.</Descrizione>
+    <Prezzo>783169</Prezzo>
+    <Valuta>EUR</Valuta>
+    <Comune>Firenze</Comune>
+    <Provincia>FI</Provincia>
+    <Indirizzo>Via Demo 66</Indirizzo>
+    <Zona>Centro</Zona>
+    <Mq>173</Mq>
+    <Camere>2</Camere>
+    <Bagni>1</Bagni>
+    <Piano>2</Piano>
+    <ClasseEnergetica>B</ClasseEnergetica>
+    <Stato>Disponibile</Stato>
+    <Giardino>false</Giardino>
+    <Garage>true</Garage>
+    <Ascensore>true</Ascensore>
+    <Latitudine>43.755522</Latitudine>
+    <Longitudine>11.233406</Longitudine>
+    <Immagini>
+      <Immagine ordine="1">https://picsum.photos/seed/property-66-1/1200/800</Immagine>
+      <Immagine ordine="2">https://picsum.photos/seed/property-66-2/1200/800</Immagine>
+      <Immagine ordine="3">https://picsum.photos/seed/property-66-3/1200/800</Immagine>
+      <Immagine ordine="4">https://picsum.photos/seed/property-66-4/1200/800</Immagine>
+      <Immagine ordine="5">https://picsum.photos/seed/property-66-5/1200/800</Immagine>
+    </Immagini>
+  </Immobile>
+  <Immobile>
+    <CodiceNazione>IT</CodiceNazione>
+    <CodiceComune>034027</CodiceComune>
+    <Riferimento>PR-1067</Riferimento>
+    <Contratto>Vendita</Contratto>
+    <Tipologia>Villa</Tipologia>
+    <Titolo>Villa in zona servita a Parma</Titolo>
+    <Descrizione>Proponiamo villa a Parma, in centro, con ambienti luminosi, ottima distribuzione interna e finiture curate. Soluzione ideale per famiglie, professionisti o investimento.</Descrizione>
+    <Prezzo>628169</Prezzo>
+    <Valuta>EUR</Valuta>
+    <Comune>Parma</Comune>
+    <Provincia>PR</Provincia>
+    <Indirizzo>Via Demo 67</Indirizzo>
+    <Zona>Quartiere storico</Zona>
+    <Mq>288</Mq>
+    <Camere>4</Camere>
+    <Bagni>3</Bagni>
+    <Piano>4</Piano>
+    <ClasseEnergetica>B</ClasseEnergetica>
+    <Stato>Disponibile</Stato>
+    <Giardino>true</Giardino>
+    <Garage>false</Garage>
+    <Ascensore>false</Ascensore>
+    <Latitudine>44.810100</Latitudine>
+    <Longitudine>10.299769</Longitudine>
+    <Immagini>
+      <Immagine ordine="1">https://picsum.photos/seed/property-67-1/1200/800</Immagine>
+      <Immagine ordine="2">https://picsum.photos/seed/property-67-2/1200/800</Immagine>
+      <Immagine ordine="3">https://picsum.photos/seed/property-67-3/1200/800</Immagine>
+      <Immagine ordine="4">https://picsum.photos/seed/property-67-4/1200/800</Immagine>
+      <Immagine ordine="5">https://picsum.photos/seed/property-67-5/1200/800</Immagine>
+    </Immagini>
+  </Immobile>
+  <Immobile>
+    <CodiceNazione>IT</CodiceNazione>
+    <CodiceComune>023091</CodiceComune>
+    <Riferimento>VR-1068</Riferimento>
+    <Contratto>Vendita</Contratto>
+    <Tipologia>Bilocale</Tipologia>
+    <Titolo>Bilocale in prima periferia a Verona</Titolo>
+    <Descrizione>Proponiamo bilocale a Verona, in zona servita, con ambienti luminosi, ottima distribuzione interna e finiture curate. Soluzione ideale per famiglie, professionisti o investimento.</Descrizione>
+    <Prezzo>174714</Prezzo>
+    <Valuta>EUR</Valuta>
+    <Comune>Verona</Comune>
+    <Provincia>VR</Provincia>
+    <Indirizzo>Via Demo 68</Indirizzo>
+    <Zona>Zona residenziale</Zona>
+    <Mq>296</Mq>
+    <Camere>4</Camere>
+    <Bagni>1</Bagni>
+    <Piano>Terra</Piano>
+    <ClasseEnergetica>A2</ClasseEnergetica>
+    <Stato>Disponibile</Stato>
+    <Giardino>false</Giardino>
+    <Garage>false</Garage>
+    <Ascensore>false</Ascensore>
+    <Latitudine>45.468078</Latitudine>
+    <Longitudine>10.993433</Longitudine>
+    <Immagini>
+      <Immagine ordine="1">https://picsum.photos/seed/property-68-1/1200/800</Immagine>
+      <Immagine ordine="2">https://picsum.photos/seed/property-68-2/1200/800</Immagine>
+      <Immagine ordine="3">https://picsum.photos/seed/property-68-3/1200/800</Immagine>
+      <Immagine ordine="4">https://picsum.photos/seed/property-68-4/1200/800</Immagine>
+      <Immagine ordine="5">https://picsum.photos/seed/property-68-5/1200/800</Immagine>
+    </Immagini>
+  </Immobile>
+  <Immobile>
+    <CodiceNazione>IT</CodiceNazione>
+    <CodiceComune>034027</CodiceComune>
+    <Riferimento>PR-1069</Riferimento>
+    <Contratto>Vendita</Contratto>
+    <Tipologia>Bilocale</Tipologia>
+    <Titolo>Bilocale in quartiere storico a Parma</Titolo>
+    <Descrizione>Proponiamo bilocale a Parma, in zona residenziale, con ambienti luminosi, ottima distribuzione interna e finiture curate. Soluzione ideale per famiglie, professionisti o investimento.</Descrizione>
+    <Prezzo>540961</Prezzo>
+    <Valuta>EUR</Valuta>
+    <Comune>Parma</Comune>
+    <Provincia>PR</Provincia>
+    <Indirizzo>Via Demo 69</Indirizzo>
+    <Zona>Quartiere storico</Zona>
+    <Mq>103</Mq>
+    <Camere>5</Camere>
+    <Bagni>2</Bagni>
+    <Piano>2</Piano>
+    <ClasseEnergetica>F</ClasseEnergetica>
+    <Stato>Disponibile</Stato>
+    <Giardino>false</Giardino>
+    <Garage>false</Garage>
+    <Ascensore>true</Ascensore>
+    <Latitudine>44.790253</Latitudine>
+    <Longitudine>10.316651</Longitudine>
+    <Immagini>
+      <Immagine ordine="1">https://picsum.photos/seed/property-69-1/1200/800</Immagine>
+      <Immagine ordine="2">https://picsum.photos/seed/property-69-2/1200/800</Immagine>
+      <Immagine ordine="3">https://picsum.photos/seed/property-69-3/1200/800</Immagine>
+      <Immagine ordine="4">https://picsum.photos/seed/property-69-4/1200/800</Immagine>
+    </Immagini>
+  </Immobile>
+  <Immobile>
+    <CodiceNazione>IT</CodiceNazione>
+    <CodiceComune>028060</CodiceComune>
+    <Riferimento>PD-1070</Riferimento>
+    <Contratto>Affitto</Contratto>
+    <Tipologia>Attico</Tipologia>
+    <Titolo>Attico in quartiere storico a Padova</Titolo>
+    <Descrizione>Proponiamo attico a Padova, in centro, con ambienti luminosi, ottima distribuzione interna e finiture curate. Soluzione ideale per famiglie, professionisti o investimento.</Descrizione>
+    <Prezzo>931</Prezzo>
+    <Valuta>EUR</Valuta>
+    <Comune>Padova</Comune>
+    <Provincia>PD</Provincia>
+    <Indirizzo>Via Demo 70</Indirizzo>
+    <Zona>Zona verde</Zona>
+    <Mq>79</Mq>
+    <Camere>1</Camere>
+    <Bagni>1</Bagni>
+    <Piano>Ultimo</Piano>
+    <ClasseEnergetica>D</ClasseEnergetica>
+    <Stato>Disponibile</Stato>
+    <Giardino>true</Giardino>
+    <Garage>true</Garage>
+    <Ascensore>false</Ascensore>
+    <Latitudine>45.416601</Latitudine>
+    <Longitudine>11.871449</Longitudine>
+    <Immagini>
+      <Immagine ordine="1">https://picsum.photos/seed/property-70-1/1200/800</Immagine>
+      <Immagine ordine="2">https://picsum.photos/seed/property-70-2/1200/800</Immagine>
+      <Immagine ordine="3">https://picsum.photos/seed/property-70-3/1200/800</Immagine>
+      <Immagine ordine="4">https://picsum.photos/seed/property-70-4/1200/800</Immagine>
+      <Immagine ordine="5">https://picsum.photos/seed/property-70-5/1200/800</Immagine>
+    </Immagini>
+  </Immobile>
+  <Immobile>
+    <CodiceNazione>IT</CodiceNazione>
+    <CodiceComune>015146</CodiceComune>
+    <Riferimento>MI-1071</Riferimento>
+    <Contratto>Affitto</Contratto>
+    <Tipologia>Rustico</Tipologia>
+    <Titolo>Rustico in zona verde a Milano</Titolo>
+    <Descrizione>Proponiamo rustico a Milano, in quartiere storico, con ambienti luminosi, ottima distribuzione interna e finiture curate. Soluzione ideale per famiglie, professionisti o investimento.</Descrizione>
+    <Prezzo>1183</Prezzo>
+    <Valuta>EUR</Valuta>
+    <Comune>Milano</Comune>
+    <Provincia>MI</Provincia>
+    <Indirizzo>Via Demo 71</Indirizzo>
+    <Zona>Zona residenziale</Zona>
+    <Mq>225</Mq>
+    <Camere>1</Camere>
+    <Bagni>2</Bagni>
+    <Piano>Terra</Piano>
+    <ClasseEnergetica>D</ClasseEnergetica>
+    <Stato>Disponibile</Stato>
+    <Giardino>false</Giardino>
+    <Garage>true</Garage>
+    <Ascensore>false</Ascensore>
+    <Latitudine>45.468646</Latitudine>
+    <Longitudine>9.208433</Longitudine>
+    <Immagini>
+      <Immagine ordine="1">https://picsum.photos/seed/property-71-1/1200/800</Immagine>
+      <Immagine ordine="2">https://picsum.photos/seed/property-71-2/1200/800</Immagine>
+    </Immagini>
+  </Immobile>
+  <Immobile>
+    <CodiceNazione>IT</CodiceNazione>
+    <CodiceComune>036023</CodiceComune>
+    <Riferimento>MO-1072</Riferimento>
+    <Contratto>Vendita</Contratto>
+    <Tipologia>Rustico</Tipologia>
+    <Titolo>Rustico in prima periferia a Modena</Titolo>
+    <Descrizione>Proponiamo rustico a Modena, in centro, con ambienti luminosi, ottima distribuzione interna e finiture curate. Soluzione ideale per famiglie, professionisti o investimento.</Descrizione>
+    <Prezzo>446331</Prezzo>
+    <Valuta>EUR</Valuta>
+    <Comune>Modena</Comune>
+    <Provincia>MO</Provincia>
+    <Indirizzo>Via Demo 72</Indirizzo>
+    <Zona>Zona residenziale</Zona>
+    <Mq>137</Mq>
+    <Camere>3</Camere>
+    <Bagni>3</Bagni>
+    <Piano>1</Piano>
+    <ClasseEnergetica>E</ClasseEnergetica>
+    <Stato>Disponibile</Stato>
+    <Giardino>true</Giardino>
+    <Garage>true</Garage>
+    <Ascensore>true</Ascensore>
+    <Latitudine>44.622605</Latitudine>
+    <Longitudine>10.927029</Longitudine>
+    <Immagini>
+      <Immagine ordine="1">https://picsum.photos/seed/property-72-1/1200/800</Immagine>
+      <Immagine ordine="2">https://picsum.photos/seed/property-72-2/1200/800</Immagine>
+      <Immagine ordine="3">https://picsum.photos/seed/property-72-3/1200/800</Immagine>
+      <Immagine ordine="4">https://picsum.photos/seed/property-72-4/1200/800</Immagine>
+      <Immagine ordine="5">https://picsum.photos/seed/property-72-5/1200/800</Immagine>
+    </Immagini>
+  </Immobile>
+  <Immobile>
+    <CodiceNazione>IT</CodiceNazione>
+    <CodiceComune>023091</CodiceComune>
+    <Riferimento>VR-1073</Riferimento>
+    <Contratto>Affitto</Contratto>
+    <Tipologia>Trilocale</Tipologia>
+    <Titolo>Trilocale in zona servita a Verona</Titolo>
+    <Descrizione>Proponiamo trilocale a Verona, in zona servita, con ambienti luminosi, ottima distribuzione interna e finiture curate. Soluzione ideale per famiglie, professionisti o investimento.</Descrizione>
+    <Prezzo>1878</Prezzo>
+    <Valuta>EUR</Valuta>
+    <Comune>Verona</Comune>
+    <Provincia>VR</Provincia>
+    <Indirizzo>Via Demo 73</Indirizzo>
+    <Zona>Centro</Zona>
+    <Mq>125</Mq>
+    <Camere>3</Camere>
+    <Bagni>3</Bagni>
+    <Piano>Terra</Piano>
+    <ClasseEnergetica>A2</ClasseEnergetica>
+    <Stato>Disponibile</Stato>
+    <Giardino>true</Giardino>
+    <Garage>true</Garage>
+    <Ascensore>true</Ascensore>
+    <Latitudine>45.424726</Latitudine>
+    <Longitudine>11.001316</Longitudine>
+    <Immagini>
+      <Immagine ordine="1">https://picsum.photos/seed/property-73-1/1200/800</Immagine>
+      <Immagine ordine="2">https://picsum.photos/seed/property-73-2/1200/800</Immagine>
+      <Immagine ordine="3">https://picsum.photos/seed/property-73-3/1200/800</Immagine>
+      <Immagine ordine="4">https://picsum.photos/seed/property-73-4/1200/800</Immagine>
+      <Immagine ordine="5">https://picsum.photos/seed/property-73-5/1200/800</Immagine>
+    </Immagini>
+  </Immobile>
+  <Immobile>
+    <CodiceNazione>IT</CodiceNazione>
+    <CodiceComune>036023</CodiceComune>
+    <Riferimento>MO-1074</Riferimento>
+    <Contratto>Affitto</Contratto>
+    <Tipologia>Trilocale</Tipologia>
+    <Titolo>Trilocale in quartiere storico a Modena</Titolo>
+    <Descrizione>Proponiamo trilocale a Modena, in centro, con ambienti luminosi, ottima distribuzione interna e finiture curate. Soluzione ideale per famiglie, professionisti o investimento.</Descrizione>
+    <Prezzo>1963</Prezzo>
+    <Valuta>EUR</Valuta>
+    <Comune>Modena</Comune>
+    <Provincia>MO</Provincia>
+    <Indirizzo>Via Demo 74</Indirizzo>
+    <Zona>Prima periferia</Zona>
+    <Mq>184</Mq>
+    <Camere>2</Camere>
+    <Bagni>1</Bagni>
+    <Piano>Ultimo</Piano>
+    <ClasseEnergetica>F</ClasseEnergetica>
+    <Stato>Disponibile</Stato>
+    <Giardino>false</Giardino>
+    <Garage>true</Garage>
+    <Ascensore>true</Ascensore>
+    <Latitudine>44.640816</Latitudine>
+    <Longitudine>10.931159</Longitudine>
+    <Immagini>
+      <Immagine ordine="1">https://picsum.photos/seed/property-74-1/1200/800</Immagine>
+      <Immagine ordine="2">https://picsum.photos/seed/property-74-2/1200/800</Immagine>
+    </Immagini>
+  </Immobile>
+  <Immobile>
+    <CodiceNazione>IT</CodiceNazione>
+    <CodiceComune>001272</CodiceComune>
+    <Riferimento>TO-1075</Riferimento>
+    <Contratto>Vendita</Contratto>
+    <Tipologia>Rustico</Tipologia>
+    <Titolo>Rustico in centro a Torino</Titolo>
+    <Descrizione>Proponiamo rustico a Torino, in centro, con ambienti luminosi, ottima distribuzione interna e finiture curate. Soluzione ideale per famiglie, professionisti o investimento.</Descrizione>
+    <Prezzo>434061</Prezzo>
+    <Valuta>EUR</Valuta>
+    <Comune>Torino</Comune>
+    <Provincia>TO</Provincia>
+    <Indirizzo>Via Demo 75</Indirizzo>
+    <Zona>Quartiere storico</Zona>
+    <Mq>115</Mq>
+    <Camere>3</Camere>
+    <Bagni>3</Bagni>
+    <Piano>Ultimo</Piano>
+    <ClasseEnergetica>E</ClasseEnergetica>
+    <Stato>Disponibile</Stato>
+    <Giardino>true</Giardino>
+    <Garage>true</Garage>
+    <Ascensore>false</Ascensore>
+    <Latitudine>45.072255</Latitudine>
+    <Longitudine>7.670707</Longitudine>
+    <Immagini>
+      <Immagine ordine="1">https://picsum.photos/seed/property-75-1/1200/800</Immagine>
+      <Immagine ordine="2">https://picsum.photos/seed/property-75-2/1200/800</Immagine>
+      <Immagine ordine="3">https://picsum.photos/seed/property-75-3/1200/800</Immagine>
+      <Immagine ordine="4">https://picsum.photos/seed/property-75-4/1200/800</Immagine>
+    </Immagini>
+  </Immobile>
+  <Immobile>
+    <CodiceNazione>IT</CodiceNazione>
+    <CodiceComune>037006</CodiceComune>
+    <Riferimento>BO-1076</Riferimento>
+    <Contratto>Vendita</Contratto>
+    <Tipologia>Bilocale</Tipologia>
+    <Titolo>Bilocale in prima periferia a Bologna</Titolo>
+    <Descrizione>Proponiamo bilocale a Bologna, in zona servita, con ambienti luminosi, ottima distribuzione interna e finiture curate. Soluzione ideale per famiglie, professionisti o investimento.</Descrizione>
+    <Prezzo>171644</Prezzo>
+    <Valuta>EUR</Valuta>
+    <Comune>Bologna</Comune>
+    <Provincia>BO</Provincia>
+    <Indirizzo>Via Demo 76</Indirizzo>
+    <Zona>Quartiere storico</Zona>
+    <Mq>268</Mq>
+    <Camere>1</Camere>
+    <Bagni>4</Bagni>
+    <Piano>4</Piano>
+    <ClasseEnergetica>E</ClasseEnergetica>
+    <Stato>Disponibile</Stato>
+    <Giardino>false</Giardino>
+    <Garage>false</Garage>
+    <Ascensore>true</Ascensore>
+    <Latitudine>44.489202</Latitudine>
+    <Longitudine>11.370572</Longitudine>
+    <Immagini>
+      <Immagine ordine="1">https://picsum.photos/seed/property-76-1/1200/800</Immagine>
+      <Immagine ordine="2">https://picsum.photos/seed/property-76-2/1200/800</Immagine>
+      <Immagine ordine="3">https://picsum.photos/seed/property-76-3/1200/800</Immagine>
+    </Immagini>
+  </Immobile>
+  <Immobile>
+    <CodiceNazione>IT</CodiceNazione>
+    <CodiceComune>036023</CodiceComune>
+    <Riferimento>MO-1077</Riferimento>
+    <Contratto>Affitto</Contratto>
+    <Tipologia>Trilocale</Tipologia>
+    <Titolo>Trilocale in quartiere storico a Modena</Titolo>
+    <Descrizione>Proponiamo trilocale a Modena, in zona servita, con ambienti luminosi, ottima distribuzione interna e finiture curate. Soluzione ideale per famiglie, professionisti o investimento.</Descrizione>
+    <Prezzo>1546</Prezzo>
+    <Valuta>EUR</Valuta>
+    <Comune>Modena</Comune>
+    <Provincia>MO</Provincia>
+    <Indirizzo>Via Demo 77</Indirizzo>
+    <Zona>Quartiere storico</Zona>
+    <Mq>90</Mq>
+    <Camere>4</Camere>
+    <Bagni>1</Bagni>
+    <Piano>4</Piano>
+    <ClasseEnergetica>A3</ClasseEnergetica>
+    <Stato>Disponibile</Stato>
+    <Giardino>false</Giardino>
+    <Garage>false</Garage>
+    <Ascensore>false</Ascensore>
+    <Latitudine>44.630394</Latitudine>
+    <Longitudine>10.941947</Longitudine>
+    <Immagini>
+      <Immagine ordine="1">https://picsum.photos/seed/property-77-1/1200/800</Immagine>
+      <Immagine ordine="2">https://picsum.photos/seed/property-77-2/1200/800</Immagine>
+    </Immagini>
+  </Immobile>
+  <Immobile>
+    <CodiceNazione>IT</CodiceNazione>
+    <CodiceComune>034027</CodiceComune>
+    <Riferimento>PR-1078</Riferimento>
+    <Contratto>Vendita</Contratto>
+    <Tipologia>Villa</Tipologia>
+    <Titolo>Villa in centro a Parma</Titolo>
+    <Descrizione>Proponiamo villa a Parma, in zona residenziale, con ambienti luminosi, ottima distribuzione interna e finiture curate. Soluzione ideale per famiglie, professionisti o investimento.</Descrizione>
+    <Prezzo>337745</Prezzo>
+    <Valuta>EUR</Valuta>
+    <Comune>Parma</Comune>
+    <Provincia>PR</Provincia>
+    <Indirizzo>Via Demo 78</Indirizzo>
+    <Zona>Prima periferia</Zona>
+    <Mq>223</Mq>
+    <Camere>3</Camere>
+    <Bagni>2</Bagni>
+    <Piano>1</Piano>
+    <ClasseEnergetica>A2</ClasseEnergetica>
+    <Stato>Disponibile</Stato>
+    <Giardino>true</Giardino>
+    <Garage>true</Garage>
+    <Ascensore>true</Ascensore>
+    <Latitudine>44.828578</Latitudine>
+    <Longitudine>10.335577</Longitudine>
+    <Immagini>
+      <Immagine ordine="1">https://picsum.photos/seed/property-78-1/1200/800</Immagine>
+      <Immagine ordine="2">https://picsum.photos/seed/property-78-2/1200/800</Immagine>
+      <Immagine ordine="3">https://picsum.photos/seed/property-78-3/1200/800</Immagine>
+      <Immagine ordine="4">https://picsum.photos/seed/property-78-4/1200/800</Immagine>
+      <Immagine ordine="5">https://picsum.photos/seed/property-78-5/1200/800</Immagine>
+    </Immagini>
+  </Immobile>
+  <Immobile>
+    <CodiceNazione>IT</CodiceNazione>
+    <CodiceComune>036023</CodiceComune>
+    <Riferimento>MO-1079</Riferimento>
+    <Contratto>Affitto</Contratto>
+    <Tipologia>Trilocale</Tipologia>
+    <Titolo>Trilocale in quartiere storico a Modena</Titolo>
+    <Descrizione>Proponiamo trilocale a Modena, in quartiere storico, con ambienti luminosi, ottima distribuzione interna e finiture curate. Soluzione ideale per famiglie, professionisti o investimento.</Descrizione>
+    <Prezzo>829</Prezzo>
+    <Valuta>EUR</Valuta>
+    <Comune>Modena</Comune>
+    <Provincia>MO</Provincia>
+    <Indirizzo>Via Demo 79</Indirizzo>
+    <Zona>Zona verde</Zona>
+    <Mq>206</Mq>
+    <Camere>2</Camere>
+    <Bagni>4</Bagni>
+    <Piano>2</Piano>
+    <ClasseEnergetica>C</ClasseEnergetica>
+    <Stato>Disponibile</Stato>
+    <Giardino>true</Giardino>
+    <Garage>false</Garage>
+    <Ascensore>true</Ascensore>
+    <Latitudine>44.635724</Latitudine>
+    <Longitudine>10.922315</Longitudine>
+    <Immagini>
+      <Immagine ordine="1">https://picsum.photos/seed/property-79-1/1200/800</Immagine>
+      <Immagine ordine="2">https://picsum.photos/seed/property-79-2/1200/800</Immagine>
+    </Immagini>
+  </Immobile>
+  <Immobile>
+    <CodiceNazione>IT</CodiceNazione>
+    <CodiceComune>028060</CodiceComune>
+    <Riferimento>PD-1080</Riferimento>
+    <Contratto>Vendita</Contratto>
+    <Tipologia>Rustico</Tipologia>
+    <Titolo>Rustico in zona servita a Padova</Titolo>
+    <Descrizione>Proponiamo rustico a Padova, in zona servita, con ambienti luminosi, ottima distribuzione interna e finiture curate. Soluzione ideale per famiglie, professionisti o investimento.</Descrizione>
+    <Prezzo>575188</Prezzo>
+    <Valuta>EUR</Valuta>
+    <Comune>Padova</Comune>
+    <Provincia>PD</Provincia>
+    <Indirizzo>Via Demo 80</Indirizzo>
+    <Zona>Zona verde</Zona>
+    <Mq>91</Mq>
+    <Camere>5</Camere>
+    <Bagni>4</Bagni>
+    <Piano>Terra</Piano>
+    <ClasseEnergetica>F</ClasseEnergetica>
+    <Stato>Disponibile</Stato>
+    <Giardino>true</Giardino>
+    <Garage>false</Garage>
+    <Ascensore>false</Ascensore>
+    <Latitudine>45.406482</Latitudine>
+    <Longitudine>11.904263</Longitudine>
+    <Immagini>
+      <Immagine ordine="1">https://picsum.photos/seed/property-80-1/1200/800</Immagine>
+      <Immagine ordine="2">https://picsum.photos/seed/property-80-2/1200/800</Immagine>
+      <Immagine ordine="3">https://picsum.photos/seed/property-80-3/1200/800</Immagine>
+      <Immagine ordine="4">https://picsum.photos/seed/property-80-4/1200/800</Immagine>
+      <Immagine ordine="5">https://picsum.photos/seed/property-80-5/1200/800</Immagine>
+    </Immagini>
+  </Immobile>
+  <Immobile>
+    <CodiceNazione>IT</CodiceNazione>
+    <CodiceComune>037006</CodiceComune>
+    <Riferimento>BO-1081</Riferimento>
+    <Contratto>Vendita</Contratto>
+    <Tipologia>Loft</Tipologia>
+    <Titolo>Loft in zona verde a Bologna</Titolo>
+    <Descrizione>Proponiamo loft a Bologna, in quartiere storico, con ambienti luminosi, ottima distribuzione interna e finiture curate. Soluzione ideale per famiglie, professionisti o investimento.</Descrizione>
+    <Prezzo>349778</Prezzo>
+    <Valuta>EUR</Valuta>
+    <Comune>Bologna</Comune>
+    <Provincia>BO</Provincia>
+    <Indirizzo>Via Demo 81</Indirizzo>
+    <Zona>Quartiere storico</Zona>
+    <Mq>303</Mq>
+    <Camere>2</Camere>
+    <Bagni>1</Bagni>
+    <Piano>4</Piano>
+    <ClasseEnergetica>G</ClasseEnergetica>
+    <Stato>Disponibile</Stato>
+    <Giardino>true</Giardino>
+    <Garage>false</Garage>
+    <Ascensore>false</Ascensore>
+    <Latitudine>44.519976</Latitudine>
+    <Longitudine>11.335845</Longitudine>
+    <Immagini>
+      <Immagine ordine="1">https://picsum.photos/seed/property-81-1/1200/800</Immagine>
+      <Immagine ordine="2">https://picsum.photos/seed/property-81-2/1200/800</Immagine>
+      <Immagine ordine="3">https://picsum.photos/seed/property-81-3/1200/800</Immagine>
+      <Immagine ordine="4">https://picsum.photos/seed/property-81-4/1200/800</Immagine>
+    </Immagini>
+  </Immobile>
+  <Immobile>
+    <CodiceNazione>IT</CodiceNazione>
+    <CodiceComune>036023</CodiceComune>
+    <Riferimento>MO-1082</Riferimento>
+    <Contratto>Affitto</Contratto>
+    <Tipologia>Appartamento</Tipologia>
+    <Titolo>Appartamento in zona verde a Modena</Titolo>
+    <Descrizione>Proponiamo appartamento a Modena, in quartiere storico, con ambienti luminosi, ottima distribuzione interna e finiture curate. Soluzione ideale per famiglie, professionisti o investimento.</Descrizione>
+    <Prezzo>2835</Prezzo>
+    <Valuta>EUR</Valuta>
+    <Comune>Modena</Comune>
+    <Provincia>MO</Provincia>
+    <Indirizzo>Via Demo 82</Indirizzo>
+    <Zona>Prima periferia</Zona>
+    <Mq>78</Mq>
+    <Camere>3</Camere>
+    <Bagni>1</Bagni>
+    <Piano>2</Piano>
+    <ClasseEnergetica>A2</ClasseEnergetica>
+    <Stato>Disponibile</Stato>
+    <Giardino>false</Giardino>
+    <Garage>true</Garage>
+    <Ascensore>true</Ascensore>
+    <Latitudine>44.672105</Latitudine>
+    <Longitudine>10.913814</Longitudine>
+    <Immagini>
+      <Immagine ordine="1">https://picsum.photos/seed/property-82-1/1200/800</Immagine>
+      <Immagine ordine="2">https://picsum.photos/seed/property-82-2/1200/800</Immagine>
+      <Immagine ordine="3">https://picsum.photos/seed/property-82-3/1200/800</Immagine>
+      <Immagine ordine="4">https://picsum.photos/seed/property-82-4/1200/800</Immagine>
+      <Immagine ordine="5">https://picsum.photos/seed/property-82-5/1200/800</Immagine>
+    </Immagini>
+  </Immobile>
+  <Immobile>
+    <CodiceNazione>IT</CodiceNazione>
+    <CodiceComune>058091</CodiceComune>
+    <Riferimento>RM-1083</Riferimento>
+    <Contratto>Affitto</Contratto>
+    <Tipologia>Villa</Tipologia>
+    <Titolo>Villa in zona verde a Roma</Titolo>
+    <Descrizione>Proponiamo villa a Roma, in zona verde, con ambienti luminosi, ottima distribuzione interna e finiture curate. Soluzione ideale per famiglie, professionisti o investimento.</Descrizione>
+    <Prezzo>3294</Prezzo>
+    <Valuta>EUR</Valuta>
+    <Comune>Roma</Comune>
+    <Provincia>RM</Provincia>
+    <Indirizzo>Via Demo 83</Indirizzo>
+    <Zona>Zona verde</Zona>
+    <Mq>237</Mq>
+    <Camere>3</Camere>
+    <Bagni>2</Bagni>
+    <Piano>4</Piano>
+    <ClasseEnergetica>A3</ClasseEnergetica>
+    <Stato>Disponibile</Stato>
+    <Giardino>false</Giardino>
+    <Garage>false</Garage>
+    <Ascensore>true</Ascensore>
+    <Latitudine>41.894556</Latitudine>
+    <Longitudine>12.477216</Longitudine>
+    <Immagini>
+      <Immagine ordine="1">https://picsum.photos/seed/property-83-1/1200/800</Immagine>
+      <Immagine ordine="2">https://picsum.photos/seed/property-83-2/1200/800</Immagine>
+      <Immagine ordine="3">https://picsum.photos/seed/property-83-3/1200/800</Immagine>
+    </Immagini>
+  </Immobile>
+  <Immobile>
+    <CodiceNazione>IT</CodiceNazione>
+    <CodiceComune>028060</CodiceComune>
+    <Riferimento>PD-1084</Riferimento>
+    <Contratto>Vendita</Contratto>
+    <Tipologia>Trilocale</Tipologia>
+    <Titolo>Trilocale in prima periferia a Padova</Titolo>
+    <Descrizione>Proponiamo trilocale a Padova, in centro, con ambienti luminosi, ottima distribuzione interna e finiture curate. Soluzione ideale per famiglie, professionisti o investimento.</Descrizione>
+    <Prezzo>170913</Prezzo>
+    <Valuta>EUR</Valuta>
+    <Comune>Padova</Comune>
+    <Provincia>PD</Provincia>
+    <Indirizzo>Via Demo 84</Indirizzo>
+    <Zona>Zona servita</Zona>
+    <Mq>160</Mq>
+    <Camere>2</Camere>
+    <Bagni>2</Bagni>
+    <Piano>4</Piano>
+    <ClasseEnergetica>G</ClasseEnergetica>
+    <Stato>Disponibile</Stato>
+    <Giardino>true</Giardino>
+    <Garage>false</Garage>
+    <Ascensore>true</Ascensore>
+    <Latitudine>45.412235</Latitudine>
+    <Longitudine>11.856055</Longitudine>
+    <Immagini>
+      <Immagine ordine="1">https://picsum.photos/seed/property-84-1/1200/800</Immagine>
+      <Immagine ordine="2">https://picsum.photos/seed/property-84-2/1200/800</Immagine>
+      <Immagine ordine="3">https://picsum.photos/seed/property-84-3/1200/800</Immagine>
+    </Immagini>
+  </Immobile>
+  <Immobile>
+    <CodiceNazione>IT</CodiceNazione>
+    <CodiceComune>036023</CodiceComune>
+    <Riferimento>MO-1085</Riferimento>
+    <Contratto>Affitto</Contratto>
+    <Tipologia>Attico</Tipologia>
+    <Titolo>Attico in zona verde a Modena</Titolo>
+    <Descrizione>Proponiamo attico a Modena, in zona residenziale, con ambienti luminosi, ottima distribuzione interna e finiture curate. Soluzione ideale per famiglie, professionisti o investimento.</Descrizione>
+    <Prezzo>3320</Prezzo>
+    <Valuta>EUR</Valuta>
+    <Comune>Modena</Comune>
+    <Provincia>MO</Provincia>
+    <Indirizzo>Via Demo 85</Indirizzo>
+    <Zona>Quartiere storico</Zona>
+    <Mq>67</Mq>
+    <Camere>4</Camere>
+    <Bagni>3</Bagni>
+    <Piano>4</Piano>
+    <ClasseEnergetica>C</ClasseEnergetica>
+    <Stato>Disponibile</Stato>
+    <Giardino>false</Giardino>
+    <Garage>true</Garage>
+    <Ascensore>true</Ascensore>
+    <Latitudine>44.635668</Latitudine>
+    <Longitudine>10.943717</Longitudine>
+    <Immagini>
+      <Immagine ordine="1">https://picsum.photos/seed/property-85-1/1200/800</Immagine>
+      <Immagine ordine="2">https://picsum.photos/seed/property-85-2/1200/800</Immagine>
+      <Immagine ordine="3">https://picsum.photos/seed/property-85-3/1200/800</Immagine>
+      <Immagine ordine="4">https://picsum.photos/seed/property-85-4/1200/800</Immagine>
+      <Immagine ordine="5">https://picsum.photos/seed/property-85-5/1200/800</Immagine>
+    </Immagini>
+  </Immobile>
+  <Immobile>
+    <CodiceNazione>IT</CodiceNazione>
+    <CodiceComune>001272</CodiceComune>
+    <Riferimento>TO-1086</Riferimento>
+    <Contratto>Affitto</Contratto>
+    <Tipologia>Loft</Tipologia>
+    <Titolo>Loft in zona servita a Torino</Titolo>
+    <Descrizione>Proponiamo loft a Torino, in quartiere storico, con ambienti luminosi, ottima distribuzione interna e finiture curate. Soluzione ideale per famiglie, professionisti o investimento.</Descrizione>
+    <Prezzo>2609</Prezzo>
+    <Valuta>EUR</Valuta>
+    <Comune>Torino</Comune>
+    <Provincia>TO</Provincia>
+    <Indirizzo>Via Demo 86</Indirizzo>
+    <Zona>Zona residenziale</Zona>
+    <Mq>281</Mq>
+    <Camere>3</Camere>
+    <Bagni>4</Bagni>
+    <Piano>1</Piano>
+    <ClasseEnergetica>A2</ClasseEnergetica>
+    <Stato>Disponibile</Stato>
+    <Giardino>false</Giardino>
+    <Garage>true</Garage>
+    <Ascensore>false</Ascensore>
+    <Latitudine>45.092747</Latitudine>
+    <Longitudine>7.690172</Longitudine>
+    <Immagini>
+      <Immagine ordine="1">https://picsum.photos/seed/property-86-1/1200/800</Immagine>
+      <Immagine ordine="2">https://picsum.photos/seed/property-86-2/1200/800</Immagine>
+    </Immagini>
+  </Immobile>
+  <Immobile>
+    <CodiceNazione>IT</CodiceNazione>
+    <CodiceComune>034027</CodiceComune>
+    <Riferimento>PR-1087</Riferimento>
+    <Contratto>Affitto</Contratto>
+    <Tipologia>Villa</Tipologia>
+    <Titolo>Villa in zona servita a Parma</Titolo>
+    <Descrizione>Proponiamo villa a Parma, in zona residenziale, con ambienti luminosi, ottima distribuzione interna e finiture curate. Soluzione ideale per famiglie, professionisti o investimento.</Descrizione>
+    <Prezzo>2390</Prezzo>
+    <Valuta>EUR</Valuta>
+    <Comune>Parma</Comune>
+    <Provincia>PR</Provincia>
+    <Indirizzo>Via Demo 87</Indirizzo>
+    <Zona>Quartiere storico</Zona>
+    <Mq>87</Mq>
+    <Camere>2</Camere>
+    <Bagni>3</Bagni>
+    <Piano>Terra</Piano>
+    <ClasseEnergetica>B</ClasseEnergetica>
+    <Stato>Disponibile</Stato>
+    <Giardino>false</Giardino>
+    <Garage>false</Garage>
+    <Ascensore>true</Ascensore>
+    <Latitudine>44.796394</Latitudine>
+    <Longitudine>10.321687</Longitudine>
+    <Immagini>
+      <Immagine ordine="1">https://picsum.photos/seed/property-87-1/1200/800</Immagine>
+      <Immagine ordine="2">https://picsum.photos/seed/property-87-2/1200/800</Immagine>
+      <Immagine ordine="3">https://picsum.photos/seed/property-87-3/1200/800</Immagine>
+      <Immagine ordine="4">https://picsum.photos/seed/property-87-4/1200/800</Immagine>
+    </Immagini>
+  </Immobile>
+  <Immobile>
+    <CodiceNazione>IT</CodiceNazione>
+    <CodiceComune>001272</CodiceComune>
+    <Riferimento>TO-1088</Riferimento>
+    <Contratto>Vendita</Contratto>
+    <Tipologia>Bilocale</Tipologia>
+    <Titolo>Bilocale in centro a Torino</Titolo>
+    <Descrizione>Proponiamo bilocale a Torino, in zona verde, con ambienti luminosi, ottima distribuzione interna e finiture curate. Soluzione ideale per famiglie, professionisti o investimento.</Descrizione>
+    <Prezzo>424165</Prezzo>
+    <Valuta>EUR</Valuta>
+    <Comune>Torino</Comune>
+    <Provincia>TO</Provincia>
+    <Indirizzo>Via Demo 88</Indirizzo>
+    <Zona>Zona verde</Zona>
+    <Mq>236</Mq>
+    <Camere>2</Camere>
+    <Bagni>1</Bagni>
+    <Piano>2</Piano>
+    <ClasseEnergetica>A2</ClasseEnergetica>
+    <Stato>Disponibile</Stato>
+    <Giardino>true</Giardino>
+    <Garage>true</Garage>
+    <Ascensore>false</Ascensore>
+    <Latitudine>45.095344</Latitudine>
+    <Longitudine>7.685247</Longitudine>
+    <Immagini>
+      <Immagine ordine="1">https://picsum.photos/seed/property-88-1/1200/800</Immagine>
+      <Immagine ordine="2">https://picsum.photos/seed/property-88-2/1200/800</Immagine>
+      <Immagine ordine="3">https://picsum.photos/seed/property-88-3/1200/800</Immagine>
+    </Immagini>
+  </Immobile>
+  <Immobile>
+    <CodiceNazione>IT</CodiceNazione>
+    <CodiceComune>039014</CodiceComune>
+    <Riferimento>RA-1089</Riferimento>
+    <Contratto>Vendita</Contratto>
+    <Tipologia>Trilocale</Tipologia>
+    <Titolo>Trilocale in zona residenziale a Ravenna</Titolo>
+    <Descrizione>Proponiamo trilocale a Ravenna, in zona servita, con ambienti luminosi, ottima distribuzione interna e finiture curate. Soluzione ideale per famiglie, professionisti o investimento.</Descrizione>
+    <Prezzo>316130</Prezzo>
+    <Valuta>EUR</Valuta>
+    <Comune>Ravenna</Comune>
+    <Provincia>RA</Provincia>
+    <Indirizzo>Via Demo 89</Indirizzo>
+    <Zona>Zona verde</Zona>
+    <Mq>85</Mq>
+    <Camere>1</Camere>
+    <Bagni>3</Bagni>
+    <Piano>4</Piano>
+    <ClasseEnergetica>G</ClasseEnergetica>
+    <Stato>Disponibile</Stato>
+    <Giardino>false</Giardino>
+    <Garage>true</Garage>
+    <Ascensore>false</Ascensore>
+    <Latitudine>44.402658</Latitudine>
+    <Longitudine>12.180811</Longitudine>
+    <Immagini>
+      <Immagine ordine="1">https://picsum.photos/seed/property-89-1/1200/800</Immagine>
+      <Immagine ordine="2">https://picsum.photos/seed/property-89-2/1200/800</Immagine>
+      <Immagine ordine="3">https://picsum.photos/seed/property-89-3/1200/800</Immagine>
+    </Immagini>
+  </Immobile>
+  <Immobile>
+    <CodiceNazione>IT</CodiceNazione>
+    <CodiceComune>023091</CodiceComune>
+    <Riferimento>VR-1090</Riferimento>
+    <Contratto>Vendita</Contratto>
+    <Tipologia>Trilocale</Tipologia>
+    <Titolo>Trilocale in zona servita a Verona</Titolo>
+    <Descrizione>Proponiamo trilocale a Verona, in zona servita, con ambienti luminosi, ottima distribuzione interna e finiture curate. Soluzione ideale per famiglie, professionisti o investimento.</Descrizione>
+    <Prezzo>752652</Prezzo>
+    <Valuta>EUR</Valuta>
+    <Comune>Verona</Comune>
+    <Provincia>VR</Provincia>
+    <Indirizzo>Via Demo 90</Indirizzo>
+    <Zona>Zona residenziale</Zona>
+    <Mq>101</Mq>
+    <Camere>4</Camere>
+    <Bagni>1</Bagni>
+    <Piano>Ultimo</Piano>
+    <ClasseEnergetica>A2</ClasseEnergetica>
+    <Stato>Disponibile</Stato>
+    <Giardino>false</Giardino>
+    <Garage>false</Garage>
+    <Ascensore>true</Ascensore>
+    <Latitudine>45.445289</Latitudine>
+    <Longitudine>10.976034</Longitudine>
+    <Immagini>
+      <Immagine ordine="1">https://picsum.photos/seed/property-90-1/1200/800</Immagine>
+      <Immagine ordine="2">https://picsum.photos/seed/property-90-2/1200/800</Immagine>
+      <Immagine ordine="3">https://picsum.photos/seed/property-90-3/1200/800</Immagine>
+      <Immagine ordine="4">https://picsum.photos/seed/property-90-4/1200/800</Immagine>
+      <Immagine ordine="5">https://picsum.photos/seed/property-90-5/1200/800</Immagine>
+    </Immagini>
+  </Immobile>
+  <Immobile>
+    <CodiceNazione>IT</CodiceNazione>
+    <CodiceComune>058091</CodiceComune>
+    <Riferimento>RM-1091</Riferimento>
+    <Contratto>Affitto</Contratto>
+    <Tipologia>Villa</Tipologia>
+    <Titolo>Villa in quartiere storico a Roma</Titolo>
+    <Descrizione>Proponiamo villa a Roma, in centro, con ambienti luminosi, ottima distribuzione interna e finiture curate. Soluzione ideale per famiglie, professionisti o investimento.</Descrizione>
+    <Prezzo>2149</Prezzo>
+    <Valuta>EUR</Valuta>
+    <Comune>Roma</Comune>
+    <Provincia>RM</Provincia>
+    <Indirizzo>Via Demo 91</Indirizzo>
+    <Zona>Zona verde</Zona>
+    <Mq>79</Mq>
+    <Camere>5</Camere>
+    <Bagni>1</Bagni>
+    <Piano>3</Piano>
+    <ClasseEnergetica>D</ClasseEnergetica>
+    <Stato>Disponibile</Stato>
+    <Giardino>false</Giardino>
+    <Garage>true</Garage>
+    <Ascensore>false</Ascensore>
+    <Latitudine>41.920111</Latitudine>
+    <Longitudine>12.487088</Longitudine>
+    <Immagini>
+      <Immagine ordine="1">https://picsum.photos/seed/property-91-1/1200/800</Immagine>
+      <Immagine ordine="2">https://picsum.photos/seed/property-91-2/1200/800</Immagine>
+    </Immagini>
+  </Immobile>
+  <Immobile>
+    <CodiceNazione>IT</CodiceNazione>
+    <CodiceComune>036023</CodiceComune>
+    <Riferimento>MO-1092</Riferimento>
+    <Contratto>Vendita</Contratto>
+    <Tipologia>Loft</Tipologia>
+    <Titolo>Loft in zona verde a Modena</Titolo>
+    <Descrizione>Proponiamo loft a Modena, in zona residenziale, con ambienti luminosi, ottima distribuzione interna e finiture curate. Soluzione ideale per famiglie, professionisti o investimento.</Descrizione>
+    <Prezzo>943025</Prezzo>
+    <Valuta>EUR</Valuta>
+    <Comune>Modena</Comune>
+    <Provincia>MO</Provincia>
+    <Indirizzo>Via Demo 92</Indirizzo>
+    <Zona>Zona verde</Zona>
+    <Mq>67</Mq>
+    <Camere>3</Camere>
+    <Bagni>3</Bagni>
+    <Piano>3</Piano>
+    <ClasseEnergetica>F</ClasseEnergetica>
+    <Stato>Disponibile</Stato>
+    <Giardino>true</Giardino>
+    <Garage>true</Garage>
+    <Ascensore>true</Ascensore>
+    <Latitudine>44.660063</Latitudine>
+    <Longitudine>10.951816</Longitudine>
+    <Immagini>
+      <Immagine ordine="1">https://picsum.photos/seed/property-92-1/1200/800</Immagine>
+      <Immagine ordine="2">https://picsum.photos/seed/property-92-2/1200/800</Immagine>
+    </Immagini>
+  </Immobile>
+  <Immobile>
+    <CodiceNazione>IT</CodiceNazione>
+    <CodiceComune>048017</CodiceComune>
+    <Riferimento>FI-1093</Riferimento>
+    <Contratto>Vendita</Contratto>
+    <Tipologia>Villetta</Tipologia>
+    <Titolo>Villetta in zona servita a Firenze</Titolo>
+    <Descrizione>Proponiamo villetta a Firenze, in quartiere storico, con ambienti luminosi, ottima distribuzione interna e finiture curate. Soluzione ideale per famiglie, professionisti o investimento.</Descrizione>
+    <Prezzo>415138</Prezzo>
+    <Valuta>EUR</Valuta>
+    <Comune>Firenze</Comune>
+    <Provincia>FI</Provincia>
+    <Indirizzo>Via Demo 93</Indirizzo>
+    <Zona>Zona servita</Zona>
+    <Mq>147</Mq>
+    <Camere>1</Camere>
+    <Bagni>3</Bagni>
+    <Piano>3</Piano>
+    <ClasseEnergetica>C</ClasseEnergetica>
+    <Stato>Disponibile</Stato>
+    <Giardino>true</Giardino>
+    <Garage>true</Garage>
+    <Ascensore>false</Ascensore>
+    <Latitudine>43.761018</Latitudine>
+    <Longitudine>11.272650</Longitudine>
+    <Immagini>
+      <Immagine ordine="1">https://picsum.photos/seed/property-93-1/1200/800</Immagine>
+      <Immagine ordine="2">https://picsum.photos/seed/property-93-2/1200/800</Immagine>
+      <Immagine ordine="3">https://picsum.photos/seed/property-93-3/1200/800</Immagine>
+      <Immagine ordine="4">https://picsum.photos/seed/property-93-4/1200/800</Immagine>
+    </Immagini>
+  </Immobile>
+  <Immobile>
+    <CodiceNazione>IT</CodiceNazione>
+    <CodiceComune>048017</CodiceComune>
+    <Riferimento>FI-1094</Riferimento>
+    <Contratto>Affitto</Contratto>
+    <Tipologia>Villa</Tipologia>
+    <Titolo>Villa in prima periferia a Firenze</Titolo>
+    <Descrizione>Proponiamo villa a Firenze, in zona residenziale, con ambienti luminosi, ottima distribuzione interna e finiture curate. Soluzione ideale per famiglie, professionisti o investimento.</Descrizione>
+    <Prezzo>2133</Prezzo>
+    <Valuta>EUR</Valuta>
+    <Comune>Firenze</Comune>
+    <Provincia>FI</Provincia>
+    <Indirizzo>Via Demo 94</Indirizzo>
+    <Zona>Quartiere storico</Zona>
+    <Mq>268</Mq>
+    <Camere>4</Camere>
+    <Bagni>4</Bagni>
+    <Piano>Ultimo</Piano>
+    <ClasseEnergetica>F</ClasseEnergetica>
+    <Stato>Disponibile</Stato>
+    <Giardino>false</Giardino>
+    <Garage>false</Garage>
+    <Ascensore>true</Ascensore>
+    <Latitudine>43.783225</Latitudine>
+    <Longitudine>11.230536</Longitudine>
+    <Immagini>
+      <Immagine ordine="1">https://picsum.photos/seed/property-94-1/1200/800</Immagine>
+      <Immagine ordine="2">https://picsum.photos/seed/property-94-2/1200/800</Immagine>
+      <Immagine ordine="3">https://picsum.photos/seed/property-94-3/1200/800</Immagine>
+    </Immagini>
+  </Immobile>
+  <Immobile>
+    <CodiceNazione>IT</CodiceNazione>
+    <CodiceComune>034027</CodiceComune>
+    <Riferimento>PR-1095</Riferimento>
+    <Contratto>Affitto</Contratto>
+    <Tipologia>Rustico</Tipologia>
+    <Titolo>Rustico in prima periferia a Parma</Titolo>
+    <Descrizione>Proponiamo rustico a Parma, in prima periferia, con ambienti luminosi, ottima distribuzione interna e finiture curate. Soluzione ideale per famiglie, professionisti o investimento.</Descrizione>
+    <Prezzo>3257</Prezzo>
+    <Valuta>EUR</Valuta>
+    <Comune>Parma</Comune>
+    <Provincia>PR</Provincia>
+    <Indirizzo>Via Demo 95</Indirizzo>
+    <Zona>Quartiere storico</Zona>
+    <Mq>97</Mq>
+    <Camere>1</Camere>
+    <Bagni>3</Bagni>
+    <Piano>4</Piano>
+    <ClasseEnergetica>E</ClasseEnergetica>
+    <Stato>Disponibile</Stato>
+    <Giardino>true</Giardino>
+    <Garage>false</Garage>
+    <Ascensore>false</Ascensore>
+    <Latitudine>44.798328</Latitudine>
+    <Longitudine>10.341509</Longitudine>
+    <Immagini>
+      <Immagine ordine="1">https://picsum.photos/seed/property-95-1/1200/800</Immagine>
+      <Immagine ordine="2">https://picsum.photos/seed/property-95-2/1200/800</Immagine>
+      <Immagine ordine="3">https://picsum.photos/seed/property-95-3/1200/800</Immagine>
+      <Immagine ordine="4">https://picsum.photos/seed/property-95-4/1200/800</Immagine>
+    </Immagini>
+  </Immobile>
+  <Immobile>
+    <CodiceNazione>IT</CodiceNazione>
+    <CodiceComune>036023</CodiceComune>
+    <Riferimento>MO-1096</Riferimento>
+    <Contratto>Affitto</Contratto>
+    <Tipologia>Bilocale</Tipologia>
+    <Titolo>Bilocale in zona servita a Modena</Titolo>
+    <Descrizione>Proponiamo bilocale a Modena, in zona verde, con ambienti luminosi, ottima distribuzione interna e finiture curate. Soluzione ideale per famiglie, professionisti o investimento.</Descrizione>
+    <Prezzo>2038</Prezzo>
+    <Valuta>EUR</Valuta>
+    <Comune>Modena</Comune>
+    <Provincia>MO</Provincia>
+    <Indirizzo>Via Demo 96</Indirizzo>
+    <Zona>Zona verde</Zona>
+    <Mq>74</Mq>
+    <Camere>1</Camere>
+    <Bagni>4</Bagni>
+    <Piano>1</Piano>
+    <ClasseEnergetica>A4</ClasseEnergetica>
+    <Stato>Disponibile</Stato>
+    <Giardino>true</Giardino>
+    <Garage>false</Garage>
+    <Ascensore>true</Ascensore>
+    <Latitudine>44.624674</Latitudine>
+    <Longitudine>10.909360</Longitudine>
+    <Immagini>
+      <Immagine ordine="1">https://picsum.photos/seed/property-96-1/1200/800</Immagine>
+      <Immagine ordine="2">https://picsum.photos/seed/property-96-2/1200/800</Immagine>
+      <Immagine ordine="3">https://picsum.photos/seed/property-96-3/1200/800</Immagine>
+      <Immagine ordine="4">https://picsum.photos/seed/property-96-4/1200/800</Immagine>
+    </Immagini>
+  </Immobile>
+  <Immobile>
+    <CodiceNazione>IT</CodiceNazione>
+    <CodiceComune>028060</CodiceComune>
+    <Riferimento>PD-1097</Riferimento>
+    <Contratto>Vendita</Contratto>
+    <Tipologia>Bilocale</Tipologia>
+    <Titolo>Bilocale in quartiere storico a Padova</Titolo>
+    <Descrizione>Proponiamo bilocale a Padova, in centro, con ambienti luminosi, ottima distribuzione interna e finiture curate. Soluzione ideale per famiglie, professionisti o investimento.</Descrizione>
+    <Prezzo>480084</Prezzo>
+    <Valuta>EUR</Valuta>
+    <Comune>Padova</Comune>
+    <Provincia>PD</Provincia>
+    <Indirizzo>Via Demo 97</Indirizzo>
+    <Zona>Zona servita</Zona>
+    <Mq>123</Mq>
+    <Camere>4</Camere>
+    <Bagni>3</Bagni>
+    <Piano>1</Piano>
+    <ClasseEnergetica>G</ClasseEnergetica>
+    <Stato>Disponibile</Stato>
+    <Giardino>false</Giardino>
+    <Garage>false</Garage>
+    <Ascensore>false</Ascensore>
+    <Latitudine>45.415374</Latitudine>
+    <Longitudine>11.861777</Longitudine>
+    <Immagini>
+      <Immagine ordine="1">https://picsum.photos/seed/property-97-1/1200/800</Immagine>
+      <Immagine ordine="2">https://picsum.photos/seed/property-97-2/1200/800</Immagine>
+    </Immagini>
+  </Immobile>
+  <Immobile>
+    <CodiceNazione>IT</CodiceNazione>
+    <CodiceComune>015146</CodiceComune>
+    <Riferimento>MI-1098</Riferimento>
+    <Contratto>Affitto</Contratto>
+    <Tipologia>Attico</Tipologia>
+    <Titolo>Attico in prima periferia a Milano</Titolo>
+    <Descrizione>Proponiamo attico a Milano, in zona verde, con ambienti luminosi, ottima distribuzione interna e finiture curate. Soluzione ideale per famiglie, professionisti o investimento.</Descrizione>
+    <Prezzo>1622</Prezzo>
+    <Valuta>EUR</Valuta>
+    <Comune>Milano</Comune>
+    <Provincia>MI</Provincia>
+    <Indirizzo>Via Demo 98</Indirizzo>
+    <Zona>Quartiere storico</Zona>
+    <Mq>310</Mq>
+    <Camere>4</Camere>
+    <Bagni>1</Bagni>
+    <Piano>1</Piano>
+    <ClasseEnergetica>C</ClasseEnergetica>
+    <Stato>Disponibile</Stato>
+    <Giardino>false</Giardino>
+    <Garage>true</Garage>
+    <Ascensore>true</Ascensore>
+    <Latitudine>45.442344</Latitudine>
+    <Longitudine>9.164443</Longitudine>
+    <Immagini>
+      <Immagine ordine="1">https://picsum.photos/seed/property-98-1/1200/800</Immagine>
+      <Immagine ordine="2">https://picsum.photos/seed/property-98-2/1200/800</Immagine>
+      <Immagine ordine="3">https://picsum.photos/seed/property-98-3/1200/800</Immagine>
+    </Immagini>
+  </Immobile>
+  <Immobile>
+    <CodiceNazione>IT</CodiceNazione>
+    <CodiceComune>039014</CodiceComune>
+    <Riferimento>RA-1099</Riferimento>
+    <Contratto>Affitto</Contratto>
+    <Tipologia>Villa</Tipologia>
+    <Titolo>Villa in zona residenziale a Ravenna</Titolo>
+    <Descrizione>Proponiamo villa a Ravenna, in zona verde, con ambienti luminosi, ottima distribuzione interna e finiture curate. Soluzione ideale per famiglie, professionisti o investimento.</Descrizione>
+    <Prezzo>1778</Prezzo>
+    <Valuta>EUR</Valuta>
+    <Comune>Ravenna</Comune>
+    <Provincia>RA</Provincia>
+    <Indirizzo>Via Demo 99</Indirizzo>
+    <Zona>Zona verde</Zona>
+    <Mq>222</Mq>
+    <Camere>1</Camere>
+    <Bagni>3</Bagni>
+    <Piano>Ultimo</Piano>
+    <ClasseEnergetica>A2</ClasseEnergetica>
+    <Stato>Disponibile</Stato>
+    <Giardino>false</Giardino>
+    <Garage>true</Garage>
+    <Ascensore>true</Ascensore>
+    <Latitudine>44.447508</Latitudine>
+    <Longitudine>12.221024</Longitudine>
+    <Immagini>
+      <Immagine ordine="1">https://picsum.photos/seed/property-99-1/1200/800</Immagine>
+      <Immagine ordine="2">https://picsum.photos/seed/property-99-2/1200/800</Immagine>
+      <Immagine ordine="3">https://picsum.photos/seed/property-99-3/1200/800</Immagine>
+    </Immagini>
+  </Immobile>
+  <Immobile>
+    <CodiceNazione>IT</CodiceNazione>
+    <CodiceComune>039014</CodiceComune>
+    <Riferimento>RA-1100</Riferimento>
+    <Contratto>Affitto</Contratto>
+    <Tipologia>Appartamento</Tipologia>
+    <Titolo>Appartamento in centro a Ravenna</Titolo>
+    <Descrizione>Proponiamo appartamento a Ravenna, in centro, con ambienti luminosi, ottima distribuzione interna e finiture curate. Soluzione ideale per famiglie, professionisti o investimento.</Descrizione>
+    <Prezzo>3056</Prezzo>
+    <Valuta>EUR</Valuta>
+    <Comune>Ravenna</Comune>
+    <Provincia>RA</Provincia>
+    <Indirizzo>Via Demo 100</Indirizzo>
+    <Zona>Prima periferia</Zona>
+    <Mq>233</Mq>
+    <Camere>4</Camere>
+    <Bagni>2</Bagni>
+    <Piano>3</Piano>
+    <ClasseEnergetica>F</ClasseEnergetica>
+    <Stato>Disponibile</Stato>
+    <Giardino>false</Giardino>
+    <Garage>false</Garage>
+    <Ascensore>true</Ascensore>
+    <Latitudine>44.395920</Latitudine>
+    <Longitudine>12.192522</Longitudine>
+    <Immagini>
+      <Immagine ordine="1">https://picsum.photos/seed/property-100-1/1200/800</Immagine>
+      <Immagine ordine="2">https://picsum.photos/seed/property-100-2/1200/800</Immagine>
+    </Immagini>
+  </Immobile>
+</Getrix>
